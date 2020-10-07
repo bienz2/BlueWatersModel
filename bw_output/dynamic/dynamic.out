@@ -1,0 +1,460 @@
+----------------------------------------
+Begin Torque Prologue on nid27558
+at Tue May  1 13:56:33 CDT 2018
+Job Id:			8569829.bw
+Username:		bienz
+Group:			ILL_jq7
+Job name:		nodecomm
+Requested resources:	neednodes=512:ppn=32:xe,nodes=512:ppn=32:xe,walltime=00:20:00
+Queue:			normal
+Account:		jq7
+End Torque Prologue:  0.148 elapsed
+----------------------------------------
+
+
+
+
+128 Procs
+Level 0
+Avg Hops: 4, Avg Bytes 3281
+Num Short Socket: 0
+Size Short Socket: 0
+Num Eager Socket: 3
+Size Eager Socket: 1800
+Num Rend Socket: 11
+Size Rend Socket: 43800
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 0
+Size Short: 0
+Num Eager: 2
+Size Eager: 948
+Num Rend: 3
+Size Rend: 6060
+Fully Dynamic Communication: 2.006054e-04
+Allreduce + Dynamic Communication: 1.545191e-04
+ExxonMobil Communication: 1.479149e-04
+Allreduce Time: 2.191067e-05
+Level 1
+Avg Hops: 4, Avg Bytes 8305
+Num Short Socket: 2
+Size Short Socket: 0
+Num Eager Socket: 6
+Size Eager Socket: 0
+Num Rend Socket: 10
+Size Rend Socket: 31088
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 6
+Size Short: 4
+Num Eager: 7
+Size Eager: 1728
+Num Rend: 8
+Size Rend: 12784
+Fully Dynamic Communication: 5.609035e-04
+Allreduce + Dynamic Communication: 4.879951e-04
+ExxonMobil Communication: 5.280972e-04
+Allreduce Time: 2.100468e-05
+Level 2
+Avg Hops: 4, Avg Bytes 882
+Num Short Socket: 15
+Size Short Socket: 216
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 65
+Size Short: 1308
+Num Eager: 0
+Size Eager: 0
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 7.819891e-04
+Allreduce + Dynamic Communication: 5.403042e-04
+ExxonMobil Communication: 7.665873e-04
+Allreduce Time: 2.150536e-05
+Application 66683873 resources: utime ~766s, stime ~138s, Rss ~524904, inblocks ~304354, outblocks ~984784
+512 Procs
+Level 0
+Avg Hops: 5, Avg Bytes 2951
+Num Short Socket: 1
+Size Short Socket: 0
+Num Eager Socket: 8
+Size Eager Socket: 3984
+Num Rend Socket: 4
+Size Rend Socket: 7812
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 7
+Size Short: 72
+Num Eager: 14
+Size Eager: 4524
+Num Rend: 6
+Size Rend: 9576
+Fully Dynamic Communication: 3.087044e-04
+Allreduce + Dynamic Communication: 2.360106e-04
+ExxonMobil Communication: 2.193928e-04
+Allreduce Time: 4.801750e-05
+Level 1
+Avg Hops: 5, Avg Bytes 12147
+Num Short Socket: 0
+Size Short Socket: 0
+Num Eager Socket: 15
+Size Eager Socket: 8092
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 22
+Size Short: 504
+Num Eager: 71
+Size Eager: 28208
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 2.163696e-03
+Allreduce + Dynamic Communication: 1.844907e-03
+ExxonMobil Communication: 1.869297e-03
+Allreduce Time: 4.839897e-05
+Level 2
+Avg Hops: 10, Avg Bytes 633
+Num Short Socket: 8
+Size Short Socket: 32
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 171
+Size Short: 1456
+Num Eager: 0
+Size Eager: 0
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 2.819514e-03
+Allreduce + Dynamic Communication: 2.210402e-03
+ExxonMobil Communication: 2.815199e-03
+Allreduce Time: 4.899502e-05
+Application 66683880 resources: utime ~2534s, stime ~487s, Rss ~605332, inblocks ~1293766, outblocks ~3944936
+1024 Procs
+Level 0
+Avg Hops: 8, Avg Bytes 2512
+Num Short Socket: 1
+Size Short Socket: 60
+Num Eager Socket: 2
+Size Eager Socket: 2928
+Num Rend Socket: 1
+Size Rend Socket: 10176
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 15
+Size Short: 192
+Num Eager: 29
+Size Eager: 10356
+Num Rend: 5
+Size Rend: 1164
+Fully Dynamic Communication: 4.204035e-04
+Allreduce + Dynamic Communication: 3.530025e-04
+ExxonMobil Communication: 3.758907e-04
+Allreduce Time: 1.128912e-04
+Level 1
+Avg Hops: 9, Avg Bytes 11831
+Num Short Socket: 0
+Size Short Socket: 0
+Num Eager Socket: 15
+Size Eager Socket: 3640
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 51
+Size Short: 896
+Num Eager: 127
+Size Eager: 29420
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 3.149009e-03
+Allreduce + Dynamic Communication: 2.657580e-03
+ExxonMobil Communication: 3.077102e-03
+Allreduce Time: 1.126051e-04
+Level 2
+Avg Hops: 17, Avg Bytes 454
+Num Short Socket: 5
+Size Short Socket: 24
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 225
+Size Short: 1576
+Num Eager: 0
+Size Eager: 0
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 3.499413e-03
+Allreduce + Dynamic Communication: 2.625895e-03
+ExxonMobil Communication: 4.199600e-03
+Allreduce Time: 1.122952e-04
+Application 66683930 resources: utime ~6405s, stime ~938s, Rss ~712492, inblocks ~2963784, outblocks ~7895793
+2048 Procs
+Level 0
+Avg Hops: 13, Avg Bytes 1907
+Num Short Socket: 2
+Size Short Socket: 0
+Num Eager Socket: 8
+Size Eager Socket: 1512
+Num Rend Socket: 0
+Size Rend Socket: 2280
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 14
+Size Short: 480
+Num Eager: 41
+Size Eager: 12588
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 4.409075e-04
+Allreduce + Dynamic Communication: 3.966093e-04
+ExxonMobil Communication: 4.743099e-04
+Allreduce Time: 1.811028e-04
+Level 1
+Avg Hops: 16, Avg Bytes 10994
+Num Short Socket: 0
+Size Short Socket: 0
+Num Eager Socket: 15
+Size Eager Socket: 2124
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 100
+Size Short: 2840
+Num Eager: 227
+Size Eager: 26904
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 5.092716e-03
+Allreduce + Dynamic Communication: 3.956509e-03
+ExxonMobil Communication: 6.092405e-03
+Allreduce Time: 1.741886e-04
+Level 2
+Avg Hops: 33, Avg Bytes 261
+Num Short Socket: 4
+Size Short Socket: 16
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 272
+Size Short: 1408
+Num Eager: 0
+Size Eager: 0
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 5.723786e-03
+Allreduce + Dynamic Communication: 4.287004e-03
+ExxonMobil Communication: 7.351494e-03
+Allreduce Time: 1.734018e-04
+Application 66683987 resources: utime ~16200s, stime ~1873s, Rss ~699440, inblocks ~6198477, outblocks ~15802156
+4096 Procs
+Level 0
+Avg Hops: 19, Avg Bytes 1391
+Num Short Socket: 3
+Size Short Socket: 108
+Num Eager Socket: 8
+Size Eager Socket: 2484
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 22
+Size Short: 792
+Num Eager: 58
+Size Eager: 11724
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 5.241156e-04
+Allreduce + Dynamic Communication: 5.172014e-04
+ExxonMobil Communication: 6.411076e-04
+Allreduce Time: 2.588034e-04
+Level 1
+Avg Hops: 24, Avg Bytes 10106
+Num Short Socket: 5
+Size Short Socket: 228
+Num Eager Socket: 10
+Size Eager Socket: 872
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 406
+Size Short: 13900
+Num Eager: 197
+Size Eager: 16724
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 7.786298e-03
+Allreduce + Dynamic Communication: 5.876398e-03
+ExxonMobil Communication: 1.099100e-02
+Allreduce Time: 2.470016e-04
+Level 2
+Avg Hops: 59, Avg Bytes 151
+Num Short Socket: 2
+Size Short Socket: 8
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 306
+Size Short: 1540
+Num Eager: 0
+Size Eager: 0
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 8.054399e-03
+Allreduce + Dynamic Communication: 6.341505e-03
+ExxonMobil Communication: 1.287029e-02
+Allreduce Time: 2.458096e-04
+Application 66684003 resources: utime ~40280s, stime ~4029s, Rss ~1117960, inblocks ~11955090, outblocks ~31637017
+8192 Procs
+Level 0
+Avg Hops: 47, Avg Bytes 1048
+Num Short Socket: 0
+Size Short Socket: 0
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 62
+Size Short: 2040
+Num Eager: 59
+Size Eager: 11016
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 8.200884e-04
+Allreduce + Dynamic Communication: 7.185936e-04
+ExxonMobil Communication: 9.694099e-04
+Allreduce Time: 3.782034e-04
+Level 1
+Avg Hops: 49, Avg Bytes 9004
+Num Short Socket: 0
+Size Short Socket: 0
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 956
+Size Short: 23400
+Num Eager: 44
+Size Eager: 4292
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 1.397090e-02
+Allreduce + Dynamic Communication: 9.418392e-03
+ExxonMobil Communication: 2.402830e-02
+Allreduce Time: 3.508806e-04
+Level 2
+Avg Hops: 117, Avg Bytes 87
+Num Short Socket: 0
+Size Short Socket: 0
+Num Eager Socket: 0
+Size Eager Socket: 0
+Num Rend Socket: 0
+Size Rend Socket: 0
+Num Short Node: 0
+Size Short Node: 0
+Num Eager Node: 0
+Size Eager Node: 0
+Num Rend Node: 0
+Size Rend Node: 0
+Num Short: 352
+Size Short: 1600
+Num Eager: 0
+Size Eager: 0
+Num Rend: 0
+Size Rend: 0
+Fully Dynamic Communication: 1.343000e-02
+Allreduce + Dynamic Communication: 9.032822e-03
+ExxonMobil Communication: 2.737491e-02
+Allreduce Time: 3.617048e-04
+Application 66684005 resources: utime ~104820s, stime ~9954s, Rss ~1118552, inblocks ~21896038, outblocks ~63383275

@@ -1,0 +1,16 @@
+----------------------------------------
+Begin Torque Prologue on nid25334
+at Fri Feb  8 11:13:56 CST 2019
+Job Id:			9595222.bw
+Username:		bienz
+Group:			ILL_batm
+Job name:		nodecomm_imbalanced_eager_short
+Requested resources:	nodes=4:ppn=32:xe,walltime=00:20:00,neednodes=4:ppn=32:xe
+Queue:			normal
+Account:		batm
+End Torque Prologue:  0.117 elapsed
+----------------------------------------
+
+
+
+

@@ -1,0 +1,14 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=32:xe
+#PBS -l walltime=00:20:00
+#PBS -A jq7
+#PBS -N nodecomm ### Name of job
+#PBS -e node_queue_wait_$PBS_JOBID.err  ### Error File
+#PBS -o node_queue_wait_$PBS_JOBID.out  ### Output File
+
+cd "/u/sciteam/bienz/TopoModel/modeling/baseenv/haloperf"
+#/u/sciteam/bienz/packages/mpiexec.pl -n 16 --ppn 16 --coremap c --rankmap smp nodecomm_queue_node_reducedwait
+/u/sciteam/bienz/packages/mpiexec.pl -n 16 --ppn 16 --coremap c --rankmap smp nodecomm_queue_node_wait
+
+
+

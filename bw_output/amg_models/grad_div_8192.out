@@ -1,0 +1,275 @@
+Level 0
+MaxQueueN 38	 MsgN 9
+A*P:
+Max Num Msgs: 9
+Total Bytes = 94622000
+Num Short: 1
+Num Eager: 6
+Num Rend: 1
+Size Short: 0
+Size Eager: 6944
+Size Rend: 26160
+Num Short Node: 0
+Num Eager Node: 5
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 3696
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 6
+Num Rend Socket: 3
+Size Short Socket: 0
+Size Eager Socket: 7440
+Size Rend Socket: 33936
+Byte Hops = 293883328
+Worst Byte Hops = 478357216
+Num Active Processes: 8192
+Comm Time: 1.103690e-03
+A*x
+Max Num Msgs: 9
+Total Bytes = 4417464
+Num Short: 6
+Num Eager: 1
+Num Rend: 0
+Size Short: 624
+Size Eager: 816
+Size Rend: 0
+Num Short Node: 5
+Num Eager Node: 1
+Num Rend Node: 0
+Size Short Node: 168
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 3
+Num Rend Socket: 0
+Size Short Socket: 816
+Size Eager Socket: 864
+Size Rend Socket: 0
+Byte Hops = 13738320
+Worst Byte Hops = 22391184
+Num Active Processes: 8192
+Using Send + Irecv...
+Comm Time: 2.836299e-05
+Using Isend/Irecv + MPI_Waitsomes
+Comm Time: 2.405500e-05
+Level 1
+MaxQueueN 53	 MsgN 10
+A*P:
+Max Num Msgs: 10
+Total Bytes = 227834608
+Num Short: 0
+Num Eager: 4
+Num Rend: 3
+Size Short: 0
+Size Eager: 0
+Size Rend: 76880
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 11504
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 1
+Num Rend Socket: 4
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 64336
+Byte Hops = 710675312
+Worst Byte Hops = 1156274688
+Num Active Processes: 8192
+Comm Time: 1.170595e-03
+A*x
+Max Num Msgs: 10
+Total Bytes = 11319720
+Num Short: 4
+Num Eager: 3
+Num Rend: 0
+Size Short: 0
+Size Eager: 1344
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 392
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 4
+Num Rend Socket: 0
+Size Short Socket: 448
+Size Eager Socket: 5048
+Size Rend Socket: 0
+Byte Hops = 35337352
+Worst Byte Hops = 57480904
+Num Active Processes: 8192
+Using Send + Irecv...
+Comm Time: 4.131007e-05
+Using Isend/Irecv + MPI_Waitsomes
+Comm Time: 4.028010e-05
+Level 2
+MaxQueueN 187	 MsgN 20
+A*P:
+Max Num Msgs: 21
+Total Bytes = 28467488
+Num Short: 6
+Num Eager: 7
+Num Rend: 0
+Size Short: 384
+Size Eager: 10528
+Size Rend: 0
+Num Short Node: 4
+Num Eager Node: 3
+Num Rend Node: 0
+Size Short Node: 592
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 3
+Num Eager Socket: 5
+Num Rend Socket: 0
+Size Short Socket: 352
+Size Eager Socket: 7600
+Size Rend Socket: 0
+Byte Hops = 89849776
+Worst Byte Hops = 147286688
+Num Active Processes: 8192
+Comm Time: 1.987791e-04
+A*x
+Max Num Msgs: 21
+Total Bytes = 2047280
+Num Short: 12
+Num Eager: 0
+Num Rend: 0
+Size Short: 432
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 7
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 120
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 592
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 6477016
+Worst Byte Hops = 10617304
+Num Active Processes: 8192
+Using Send + Irecv...
+Comm Time: 6.010509e-05
+Using Isend/Irecv + MPI_Waitsomes
+Comm Time: 4.142904e-05
+Level 3
+MaxQueueN 217	 MsgN 23
+A*P:
+Max Num Msgs: 25
+Total Bytes = 3547232
+Num Short: 21
+Num Eager: 0
+Num Rend: 0
+Size Short: 3840
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 512
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 256
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 12315328
+Worst Byte Hops = 20574944
+Num Active Processes: 2747
+Comm Time: 9.431124e-05
+A*x
+Max Num Msgs: 25
+Total Bytes = 321776
+Num Short: 21
+Num Eager: 0
+Num Rend: 0
+Size Short: 216
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 48
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 32
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1109056
+Worst Byte Hops = 1847328
+Num Active Processes: 2747
+Using Send + Irecv...
+Comm Time: 7.707405e-05
+Using Isend/Irecv + MPI_Waitsomes
+Comm Time: 5.210900e-05
+Level 4
+MaxQueueN 164	 MsgN 21
+A*P:
+Max Num Msgs: 21
+Total Bytes = 312240
+Num Short: 21
+Num Eager: 0
+Num Rend: 0
+Size Short: 2560
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1685104
+Worst Byte Hops = 3038736
+Num Active Processes: 249
+Comm Time: 8.388042e-05
+A*x
+Max Num Msgs: 21
+Total Bytes = 31312
+Num Short: 21
+Num Eager: 0
+Num Rend: 0
+Size Short: 168
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 165632
+Worst Byte Hops = 302024
+Num Active Processes: 249
+Using Send + Irecv...
+Comm Time: 7.411098e-05
+Using Isend/Irecv + MPI_Waitsomes
+Comm Time: 4.708695e-05

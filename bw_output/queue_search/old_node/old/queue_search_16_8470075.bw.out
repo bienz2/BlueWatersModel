@@ -1,0 +1,1246 @@
+----------------------------------------
+Begin Torque Prologue on nid25348
+at Mon Apr  2 14:15:28 CDT 2018
+Job Id:			8470075.bw
+Username:		bienz
+Group:			ILL_jq7
+Job name:		queue_search
+Requested resources:	neednodes=1:ppn=32:xe,nodes=1:ppn=32:xe,walltime=00:20:00
+Queue:			normal
+Account:		jq7
+End Torque Prologue:  0.164 elapsed
+----------------------------------------
+
+
+
+
+Testing Queue Search Time...
+Num Msgs 1
+Size Msgs 800
+Time 3.945827e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.445148e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.802776e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.802776e-06
+Num Msgs 1
+Size Msgs 800
+Time 4.446507e-06
+Num Msgs 1
+Size Msgs 800
+Time 4.243851e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.945827e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.504753e-06
+Num Msgs 1
+Size Msgs 8000
+Time 1.130104e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.149178e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.189709e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.080036e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.139641e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.180172e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.169443e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.139641e-05
+Num Msgs 1
+Size Msgs 80000
+Time 1.054406e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.039028e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.091957e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.078963e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.207948e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.213551e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.198530e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.178026e-04
+Num Msgs 1
+Size Msgs 800000
+Time 1.208353e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.187956e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.229548e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.186800e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.190603e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.212502e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.158702e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.166904e-03
+Num Msgs 10
+Size Msgs 800
+Time 5.760193e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.829334e-05
+Num Msgs 10
+Size Msgs 800
+Time 6.179810e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.755424e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.589724e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.525351e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.469322e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.445480e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.440048e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.360178e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.415014e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.358986e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.420975e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.305342e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.305342e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.364946e-05
+Num Msgs 10
+Size Msgs 80000
+Time 1.275063e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.275063e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.266003e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.272559e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.236081e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.231074e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.244068e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.242995e-04
+Num Msgs 10
+Size Msgs 800000
+Time 1.247406e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.259351e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.191044e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.192844e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.293945e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.293957e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.177800e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.293194e-03
+Num Msgs 100
+Size Msgs 800
+Time 6.414652e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.275177e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.394386e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.359816e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.359816e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.220341e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.254911e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.264448e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.899834e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.824732e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.874800e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.860495e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.819963e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.705523e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.755590e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.705523e-05
+Num Msgs 100
+Size Msgs 80000
+Time 1.276016e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.245975e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.274943e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.274467e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.273036e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.229048e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.254439e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.271963e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.753466e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.489059e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.940505e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.925961e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.719491e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.475589e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.965062e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.955525e-04
+Num Msgs 1000
+Size Msgs 8000
+Time 6.841850e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.838548e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.835151e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.835854e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.844401e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.836903e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.844509e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.845653e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.857848e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.861544e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.859350e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.858146e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.872749e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.856644e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.872046e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.871998e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.169950e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.169795e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.169700e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.169700e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.178593e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.167542e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.177448e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.185292e-03
+Num Msgs 10000
+Size Msgs 80000
+Time 7.177461e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.178786e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.194257e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.157696e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.154897e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.153628e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.143713e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.150904e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.181732e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.178496e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.194619e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.157215e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.158844e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.157911e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.145949e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.155616e-01
+Application 65957986 resources: utime ~469s, stime ~8s, Rss ~22628, inblocks ~12360, outblocks ~32742
+Testing Queue Search Time...
+Num Msgs 1
+Size Msgs 800
+Time 2.849102e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.194809e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.292892e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.850460e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.650520e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.900860e-06
+Num Msgs 1
+Size Msgs 800
+Time 4.994869e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.543232e-06
+Num Msgs 1
+Size Msgs 8000
+Time 1.299381e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.380444e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.344681e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.280308e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.155138e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.235008e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.200438e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.134872e-05
+Num Msgs 1
+Size Msgs 80000
+Time 1.009464e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.049995e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.037478e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.070499e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.179457e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.135468e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.186490e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.179576e-04
+Num Msgs 1
+Size Msgs 800000
+Time 1.195407e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.224053e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.182103e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.181102e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.156890e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.156402e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.160502e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.180804e-03
+Num Msgs 10
+Size Msgs 800
+Time 5.794764e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.785227e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.705357e-05
+Num Msgs 10
+Size Msgs 800
+Time 6.185770e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.460978e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.404949e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.410910e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.584955e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.419783e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.405478e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.419783e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.400709e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.366138e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.400709e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.405478e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.415014e-05
+Num Msgs 10
+Size Msgs 80000
+Time 1.189470e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.193047e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.190543e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.194596e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.187921e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.188993e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.194596e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.182914e-04
+Num Msgs 10
+Size Msgs 800000
+Time 1.252651e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.246250e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.191795e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.190794e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.167595e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.175904e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.159894e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.221848e-03
+Num Msgs 100
+Size Msgs 800
+Time 6.395578e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.265640e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.295443e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.520748e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.335974e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.235838e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.295443e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.229877e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.904602e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.765127e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.769896e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.985664e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.794930e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.700754e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.735325e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.670952e-05
+Num Msgs 100
+Size Msgs 80000
+Time 1.296520e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.294017e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.285911e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.296997e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.273513e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.222491e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.273513e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.272440e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.730577e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.476900e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.911418e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.920001e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.680390e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.505391e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.928942e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.933949e-04
+Num Msgs 1000
+Size Msgs 8000
+Time 6.834555e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.833899e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.832051e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.835401e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.844103e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.834555e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.840503e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.842899e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.855595e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.860745e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.861043e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.859350e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.873500e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.860745e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.866646e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.870949e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.168055e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.168055e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.168305e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.168055e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.177901e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.167351e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.170510e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.179999e-03
+Num Msgs 10000
+Size Msgs 80000
+Time 7.153707e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.182644e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.189201e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.166414e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.143185e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.200750e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.140792e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.132613e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.155645e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.186907e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.196108e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.165975e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.147457e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.206923e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.144987e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.136662e-01
+Application 65958044 resources: utime ~470s, stime ~8s, Rss ~22628, inblocks ~12360, outblocks ~32742
+Testing Queue Search Time...
+Num Msgs 1
+Size Msgs 800
+Time 4.851818e-06
+Num Msgs 1
+Size Msgs 800
+Time 3.457069e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.054474e-06
+Num Msgs 1
+Size Msgs 800
+Time 4.756451e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.352497e-06
+Num Msgs 1
+Size Msgs 800
+Time 4.303455e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.149841e-06
+Num Msgs 1
+Size Msgs 800
+Time 5.006790e-06
+Num Msgs 1
+Size Msgs 8000
+Time 1.139641e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.174212e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.194477e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.159906e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.235008e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.264811e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.294613e-05
+Num Msgs 1
+Size Msgs 8000
+Time 1.169443e-05
+Num Msgs 1
+Size Msgs 80000
+Time 1.046896e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.087427e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.073956e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.104474e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.184940e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.133442e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.171947e-04
+Num Msgs 1
+Size Msgs 80000
+Time 1.182914e-04
+Num Msgs 1
+Size Msgs 800000
+Time 1.192153e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.224399e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.186657e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.239753e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.202750e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.162004e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.162505e-03
+Num Msgs 1
+Size Msgs 800000
+Time 1.169705e-03
+Num Msgs 10
+Size Msgs 800
+Time 5.675554e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.760193e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.769730e-05
+Num Msgs 10
+Size Msgs 800
+Time 6.070137e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.490780e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.470514e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.520582e-05
+Num Msgs 10
+Size Msgs 800
+Time 5.555153e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.425743e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.360178e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.395941e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.425743e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.415014e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.415014e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.384020e-05
+Num Msgs 10
+Size Msgs 8000
+Time 1.425743e-05
+Num Msgs 10
+Size Msgs 80000
+Time 1.255035e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.260042e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.260519e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.246095e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.247525e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.241088e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.233459e-04
+Num Msgs 10
+Size Msgs 80000
+Time 1.232505e-04
+Num Msgs 10
+Size Msgs 800000
+Time 1.262903e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.263654e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.200700e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.194751e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.252496e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.181507e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.187456e-03
+Num Msgs 10
+Size Msgs 800000
+Time 1.252449e-03
+Num Msgs 100
+Size Msgs 800
+Time 6.420612e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.229877e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.314516e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.560087e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.324053e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.219149e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.275177e-05
+Num Msgs 100
+Size Msgs 800
+Time 6.239414e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.929636e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.824732e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.835461e-05
+Num Msgs 100
+Size Msgs 8000
+Time 7.045269e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.849766e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.830692e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.824732e-05
+Num Msgs 100
+Size Msgs 8000
+Time 6.700754e-05
+Num Msgs 100
+Size Msgs 80000
+Time 1.302958e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.289010e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.302481e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.303434e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.283526e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.233935e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.281023e-04
+Num Msgs 100
+Size Msgs 80000
+Time 1.281500e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.627104e-04
+Num Msgs 100
+Size Msgs 800000
+Time 9.920001e-04
+Num Msgs 100
+Size Msgs 800000
+Time 1.006544e-03
+Num Msgs 100
+Size Msgs 800000
+Time 1.006997e-03
+Num Msgs 100
+Size Msgs 800000
+Time 9.772897e-04
+Num Msgs 100
+Size Msgs 800000
+Time 1.006353e-03
+Num Msgs 100
+Size Msgs 800000
+Time 1.018548e-03
+Num Msgs 100
+Size Msgs 800000
+Time 1.018846e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.828594e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.835651e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.831193e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.837451e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.842005e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.842303e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.839693e-03
+Num Msgs 1000
+Size Msgs 8000
+Time 6.840801e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.844342e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.852996e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.848550e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.849444e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.859994e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.851101e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.859744e-03
+Num Msgs 1000
+Size Msgs 80000
+Time 6.859601e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.193196e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.193291e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.193148e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.193244e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.204199e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.194042e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.194948e-03
+Num Msgs 1000
+Size Msgs 800000
+Time 7.208002e-03
+Num Msgs 10000
+Size Msgs 80000
+Time 7.183975e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.173171e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.165277e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.174786e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.153597e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.139162e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.164672e-01
+Num Msgs 10000
+Size Msgs 80000
+Time 7.143640e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.188679e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.172571e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.167930e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.176203e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.158184e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.138975e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.169449e-01
+Num Msgs 10000
+Size Msgs 800000
+Time 7.147434e-01
+Application 65958049 resources: utime ~468s, stime ~8s, Rss ~22628, inblocks ~12360, outblocks ~32742

@@ -1,0 +1,3 @@
+INFO: Job submitted to account: jq7
+aprun: Apid 66137861: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 02497] [c4-4c0s0n1] [Thu Apr  5 14:43:57 2018] PE RANK 8 exit signal Terminated

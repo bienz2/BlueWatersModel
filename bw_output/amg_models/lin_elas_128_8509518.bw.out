@@ -1,0 +1,375 @@
+----------------------------------------
+Begin Torque Prologue on nid27563
+at Sun Apr 15 17:39:37 CDT 2018
+Job Id:			8509518.bw
+Username:		bienz
+Group:			ILL_jq7
+Job name:		lin_elas_128
+Requested resources:	neednodes=8:ppn=32:xe,nodes=8:ppn=32:xe,walltime=00:30:00
+Queue:			normal
+Account:		jq7
+End Torque Prologue:  0.100 elapsed
+----------------------------------------
+
+
+
+
+Linear Elasticity
+Level 0
+A*P:
+Max Num Msgs: 19
+Total Bytes = 4504784
+Num Short: 2
+Num Eager: 3
+Num Rend: 0
+Size Short: 0
+Size Eager: 5616
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 5
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 5504
+Size Rend Node: 130976
+Num Short Socket: 0
+Num Eager Socket: 5
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 12800
+Size Rend Socket: 96720
+Byte Hops = 6422720
+Worst Byte Hops = 8459568
+Num Active Processes: 128
+Comm Time: 1.455723e+00
+A*x
+Max Num Msgs: 19
+Total Bytes = 840144
+Num Short: 2
+Num Eager: 3
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 4
+Num Eager Node: 3
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 14472
+Size Rend Node: 11280
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 504
+Size Eager Socket: 7800
+Size Rend Socket: 13440
+Byte Hops = 1197120
+Worst Byte Hops = 1576416
+Num Active Processes: 128
+Comm Time: 1.193471e-04
+Level 1
+A*P:
+Max Num Msgs: 22
+Total Bytes = 6066560
+Num Short: 3
+Num Eager: 3
+Num Rend: 6
+Size Short: 768
+Size Eager: 3792
+Size Rend: 69824
+Num Short Node: 3
+Num Eager Node: 5
+Num Rend Node: 5
+Size Short Node: 0
+Size Eager Node: 22032
+Size Rend Node: 73328
+Num Short Socket: 2
+Num Eager Socket: 3
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 242720
+Byte Hops = 8628432
+Worst Byte Hops = 11082112
+Num Active Processes: 128
+Comm Time: 9.002438e-01
+A*x
+Max Num Msgs: 22
+Total Bytes = 867504
+Num Short: 4
+Num Eager: 7
+Num Rend: 0
+Size Short: 496
+Size Eager: 9840
+Size Rend: 0
+Num Short Node: 4
+Num Eager Node: 6
+Num Rend Node: 0
+Size Short Node: 488
+Size Eager Node: 12456
+Size Rend Node: 0
+Num Short Socket: 3
+Num Eager Socket: 7
+Num Rend Socket: 1
+Size Short Socket: 0
+Size Eager Socket: 25360
+Size Rend Socket: 8024
+Byte Hops = 1234088
+Worst Byte Hops = 1588208
+Num Active Processes: 128
+Comm Time: 2.054069e-04
+Level 2
+A*P:
+Max Num Msgs: 27
+Total Bytes = 4243840
+Num Short: 8
+Num Eager: 4
+Num Rend: 0
+Size Short: 496
+Size Eager: 14896
+Size Rend: 38112
+Num Short Node: 1
+Num Eager Node: 5
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 22176
+Size Rend Node: 51968
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 7632
+Size Rend Socket: 126560
+Byte Hops = 6013360
+Worst Byte Hops = 7692160
+Num Active Processes: 128
+Comm Time: 5.112641e-01
+A*x
+Max Num Msgs: 27
+Total Bytes = 609952
+Num Short: 11
+Num Eager: 1
+Num Rend: 0
+Size Short: 1088
+Size Eager: 6496
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 5
+Num Rend Node: 0
+Size Short Node: 488
+Size Eager Node: 9096
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 17992
+Size Rend Socket: 0
+Byte Hops = 868216
+Worst Byte Hops = 1124432
+Num Active Processes: 128
+Comm Time: 1.222150e-04
+Level 3
+A*P:
+Max Num Msgs: 38
+Total Bytes = 4648544
+Num Short: 10
+Num Eager: 13
+Num Rend: 0
+Size Short: 1088
+Size Eager: 39392
+Size Rend: 17184
+Num Short Node: 0
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 32176
+Size Rend Node: 27728
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 7664
+Size Rend Socket: 58576
+Byte Hops = 6571072
+Worst Byte Hops = 8315792
+Num Active Processes: 128
+Comm Time: 3.832522e-01
+A*x
+Max Num Msgs: 38
+Total Bytes = 570552
+Num Short: 22
+Num Eager: 1
+Num Rend: 0
+Size Short: 1520
+Size Eager: 4824
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 2
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 6656
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 6
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 7424
+Size Rend Socket: 0
+Byte Hops = 811376
+Worst Byte Hops = 1035840
+Num Active Processes: 128
+Comm Time: 2.033439e-04
+Level 4
+A*P:
+Max Num Msgs: 58
+Total Bytes = 3502368
+Num Short: 16
+Num Eager: 27
+Num Rend: 0
+Size Short: 2272
+Size Eager: 53232
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 18160
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 15904
+Size Rend Socket: 0
+Byte Hops = 4840272
+Worst Byte Hops = 6306992
+Num Active Processes: 128
+Comm Time: 1.059893e-01
+A*x
+Max Num Msgs: 58
+Total Bytes = 440120
+Num Short: 43
+Num Eager: 0
+Num Rend: 0
+Size Short: 6208
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2096
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1840
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 610720
+Worst Byte Hops = 799320
+Num Active Processes: 128
+Comm Time: 2.201819e-04
+Level 5
+A*P:
+Max Num Msgs: 90
+Total Bytes = 1293632
+Num Short: 75
+Num Eager: 0
+Num Rend: 0
+Size Short: 3392
+Size Eager: 22304
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 4352
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 3808
+Size Rend Socket: 0
+Byte Hops = 1722096
+Worst Byte Hops = 2670384
+Num Active Processes: 128
+Comm Time: 1.375602e-02
+A*x
+Max Num Msgs: 90
+Total Bytes = 213136
+Num Short: 75
+Num Eager: 0
+Num Rend: 0
+Size Short: 3784
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 768
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 672
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 281632
+Worst Byte Hops = 438632
+Num Active Processes: 128
+Comm Time: 2.564020e-04
+Level 6
+A*P:
+Max Num Msgs: 83
+Total Bytes = 150512
+Num Short: 72
+Num Eager: 0
+Num Rend: 0
+Size Short: 5040
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 784
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 5
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 672
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 225088
+Worst Byte Hops = 354784
+Num Active Processes: 85
+Comm Time: 1.100004e-03
+A*x
+Max Num Msgs: 83
+Total Bytes = 42728
+Num Short: 72
+Num Eager: 0
+Num Rend: 0
+Size Short: 1208
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 168
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 5
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 144
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 63688
+Worst Byte Hops = 98144
+Num Active Processes: 85
+Comm Time: 1.813231e-04
+Application 66270168 resources: utime ~38208s, stime ~5964s, Rss ~433408, inblocks ~2606654, outblocks ~1039143

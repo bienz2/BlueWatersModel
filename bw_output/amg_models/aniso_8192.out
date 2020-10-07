@@ -1,0 +1,3901 @@
+----------------------------------------
+Begin Torque Prologue on nid25428
+at Mon Jun 11 17:05:43 CDT 2018
+Job Id:			8712153.bw
+Username:		bienz
+Group:			ILL_batm
+Job name:		aniso_8192
+Requested resources:	nodes=512:ppn=32:xe,walltime=00:15:00,neednodes=512:ppn=32:xe
+Queue:			normal
+Account:		batm
+End Torque Prologue:  0.118 elapsed
+----------------------------------------
+
+
+
+
+Level 0
+A Communication:
+Max Num Msgs: 2
+Total Bytes = 1036054544
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 1013752
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 1013752
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 2027504
+Byte Hops = 2029531504
+Num Active Processes: 8192
+Comm Time: 3.083247e-02
+S Communication:
+Max Num Msgs: 2
+Total Bytes = 814051616
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 796528
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 796528
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 1593056
+Byte Hops = 1594649056
+Num Active Processes: 8192
+Comm Time: 1.993860e-02
+P Communication:
+Max Num Msgs: 2
+Total Bytes = 115994920
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 232356
+Byte Hops = 227230856
+Num Active Processes: 8192
+Comm Time: 1.697726e-03
+A TAP Communication:
+Max Num L Msgs: 2
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 1
+Total Bytes = 1036054544
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 1013752
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 1013752
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 2027504
+Byte Hops = 2029531504
+Num Active Processes: 8192
+Comm Time: 4.052525e-02
+S TAP Communication:
+Max Num L Msgs: 2
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 1
+Total Bytes = 814051616
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 796528
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 796528
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 1593056
+Byte Hops = 1594649056
+Num Active Processes: 8192
+Comm Time: 2.835873e-02
+P TAP Communication:
+Max Num L Msgs: 2
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 1
+Total Bytes = 115994920
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 116316
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 3
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 231964
+Byte Hops = 227230856
+Num Active Processes: 8192
+Comm Time: 3.481607e-03
+A Vector Communication
+Max Num Msgs: 2
+Total Bytes = 74009152
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 72416
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 72416
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 144832
+Byte Hops = 144976832
+Num Active Processes: 8192
+Comm Time: 2.005835e-04
+S Vector Communication
+Max Num Msgs: 2
+Total Bytes = 74009152
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 72416
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 72416
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 144832
+Byte Hops = 144976832
+Num Active Processes: 8192
+Comm Time: 2.034661e-04
+P Vector Communication
+Max Num Msgs: 2
+Total Bytes = 29151632
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 58408
+Byte Hops = 57102184
+Num Active Processes: 8192
+Comm Time: 8.116128e-05
+A Vector TAP Communication
+Max Num L Msgs: 2
+Max Num S Msgs: 1
+Max Num R Msgs: 1
+Max Num G Msgs: 1
+Total Bytes = 74009152
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 72416
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 72416
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 144832
+Byte Hops = 144976832
+Num Active Processes: 8192
+Comm Time: 3.182628e-04
+S Vector TAP Communication
+Max Num L Msgs: 2
+Max Num S Msgs: 1
+Max Num R Msgs: 1
+Max Num G Msgs: 1
+Total Bytes = 74009152
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 72416
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 72416
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 2
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 144832
+Byte Hops = 144976832
+Num Active Processes: 8192
+Comm Time: 3.416971e-04
+P Vector TAP Communication
+Max Num L Msgs: 2
+Max Num S Msgs: 1
+Max Num R Msgs: 1
+Max Num G Msgs: 1
+Total Bytes = 29151632
+Num Short: 0
+Num Eager: 0
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 29112
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 3
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 58064
+Byte Hops = 57102184
+Num Active Processes: 8192
+Comm Time: 1.571438e-04
+Level 1
+A Communication:
+Max Num Msgs: 6
+Total Bytes = 4127392772
+Num Short: 0
+Num Eager: 0
+Num Rend: 3
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 3
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 6
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 4389820
+Byte Hops = 8085168832
+Num Active Processes: 8192
+Comm Time: 6.070184e-02
+S Communication:
+Max Num Msgs: 6
+Total Bytes = 595087052
+Num Short: 0
+Num Eager: 1
+Num Rend: 2
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 1
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 3816
+Size Rend Node: 405548
+Num Short Socket: 0
+Num Eager Socket: 2
+Num Rend Socket: 5
+Size Short Socket: 0
+Size Eager Socket: 4704
+Size Rend Socket: 405796
+Byte Hops = 1165706052
+Num Active Processes: 8192
+Comm Time: 5.129995e-03
+P Communication:
+Max Num Msgs: 6
+Total Bytes = 94592432
+Num Short: 1
+Num Eager: 1
+Num Rend: 2
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 1
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 2
+Num Rend Socket: 4
+Size Short Socket: 0
+Size Eager Socket: 648
+Size Rend Socket: 143700
+Byte Hops = 185309352
+Num Active Processes: 8192
+Comm Time: 9.534502e-04
+A TAP Communication:
+Max Num L Msgs: 6
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 3
+Total Bytes = 2195965004
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 4
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 4863712
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 3012876
+Byte Hops = 4301350916
+Num Active Processes: 8192
+Comm Time: 9.331195e-02
+S TAP Communication:
+Max Num L Msgs: 6
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 3
+Total Bytes = 455199636
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 1
+Num Rend Node: 3
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 183200
+Num Short Socket: 0
+Num Eager Socket: 2
+Num Rend Socket: 5
+Size Short Socket: 0
+Size Eager Socket: 8888
+Size Rend Socket: 1207488
+Byte Hops = 891735764
+Num Active Processes: 8192
+Comm Time: 1.150928e-02
+P TAP Communication:
+Max Num L Msgs: 6
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 3
+Total Bytes = 78464672
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 1
+Num Rend Node: 3
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 28292
+Num Short Socket: 2
+Num Eager Socket: 2
+Num Rend Socket: 5
+Size Short Socket: 0
+Size Eager Socket: 1652
+Size Rend Socket: 196368
+Byte Hops = 153737520
+Num Active Processes: 8192
+Comm Time: 2.227600e-03
+A Vector Communication
+Max Num Msgs: 6
+Total Bytes = 164574184
+Num Short: 0
+Num Eager: 0
+Num Rend: 3
+Size Short: 0
+Size Eager: 0
+Size Rend: 54792
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 3
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 6
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 120096
+Byte Hops = 322374680
+Num Active Processes: 8192
+Comm Time: 2.743841e-04
+S Vector Communication
+Max Num Msgs: 6
+Total Bytes = 69775024
+Num Short: 1
+Num Eager: 1
+Num Rend: 2
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 1
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 696
+Size Rend Node: 47592
+Num Short Socket: 2
+Num Eager Socket: 2
+Num Rend Socket: 4
+Size Short Socket: 0
+Size Eager Socket: 568
+Size Rend Socket: 47704
+Byte Hops = 136680912
+Num Active Processes: 8192
+Comm Time: 1.460673e-04
+P Vector Communication
+Max Num Msgs: 6
+Total Bytes = 26574520
+Num Short: 1
+Num Eager: 1
+Num Rend: 2
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 1
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 3
+Num Rend Socket: 4
+Size Short Socket: 168
+Size Eager Socket: 0
+Size Rend Socket: 41232
+Byte Hops = 52051104
+Num Active Processes: 8192
+Comm Time: 6.311169e-05
+A Vector TAP Communication
+Max Num L Msgs: 6
+Max Num S Msgs: 1
+Max Num R Msgs: 3
+Max Num G Msgs: 1
+Total Bytes = 87626872
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 4
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 193952
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 120096
+Byte Hops = 171634768
+Num Active Processes: 8192
+Comm Time: 5.433923e-04
+S Vector TAP Communication
+Max Num L Msgs: 6
+Max Num S Msgs: 1
+Max Num R Msgs: 3
+Max Num G Msgs: 1
+Total Bytes = 53587248
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 1
+Num Rend Node: 3
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 21064
+Num Short Socket: 2
+Num Eager Socket: 2
+Num Rend Socket: 5
+Size Short Socket: 480
+Size Eager Socket: 544
+Size Rend Socket: 141960
+Byte Hops = 104982928
+Num Active Processes: 8192
+Comm Time: 3.177120e-04
+P Vector TAP Communication
+Max Num L Msgs: 6
+Max Num S Msgs: 1
+Max Num R Msgs: 3
+Max Num G Msgs: 1
+Total Bytes = 22041376
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 2
+Num Rend Node: 3
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 8064
+Num Short Socket: 2
+Num Eager Socket: 2
+Num Rend Socket: 4
+Size Short Socket: 376
+Size Eager Socket: 15576
+Size Rend Socket: 39576
+Byte Hops = 43181544
+Num Active Processes: 8192
+Comm Time: 1.189598e-04
+Level 2
+A Communication:
+Max Num Msgs: 18
+Total Bytes = 9834866108
+Num Short: 2
+Num Eager: 2
+Num Rend: 7
+Size Short: 316
+Size Eager: 4568
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 2
+Num Rend Node: 7
+Size Short Node: 0
+Size Eager Node: 4108
+Size Rend Node: 3105356
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 3099808
+Byte Hops = 19265537008
+Num Active Processes: 8192
+Comm Time: 7.373917e-02
+S Communication:
+Max Num Msgs: 14
+Total Bytes = 685219268
+Num Short: 2
+Num Eager: 2
+Num Rend: 4
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 1
+Num Rend Node: 4
+Size Short Node: 236
+Size Eager Node: 1348
+Size Rend Node: 125544
+Num Short Socket: 2
+Num Eager Socket: 1
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 2524
+Size Rend Socket: 513612
+Byte Hops = 1342465620
+Num Active Processes: 8192
+Comm Time: 3.581758e-03
+P Communication:
+Max Num Msgs: 14
+Total Bytes = 94549504
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 428
+Size Eager: 4636
+Size Rend: 13272
+Num Short Node: 3
+Num Eager Node: 1
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 1
+Num Rend Socket: 4
+Size Short Socket: 240
+Size Eager Socket: 4220
+Size Rend Socket: 69900
+Byte Hops = 185320296
+Num Active Processes: 8192
+Comm Time: 6.463885e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 2
+Max Num G Msgs: 1
+Max Num R Msgs: 9
+Total Bytes = 3195498748
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 2
+Num Rend Node: 9
+Size Short Node: 0
+Size Eager Node: 9508
+Size Rend Node: 10358388
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 3569220
+Byte Hops = 6259097048
+Num Active Processes: 8192
+Comm Time: 1.427534e-01
+S TAP Communication:
+Max Num L Msgs: 14
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 7
+Total Bytes = 435345656
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 2
+Num Rend Node: 5
+Size Short Node: 88
+Size Eager Node: 1368
+Size Rend Node: 818736
+Num Short Socket: 4
+Num Eager Socket: 2
+Num Rend Socket: 9
+Size Short Socket: 0
+Size Eager Socket: 1568
+Size Rend Socket: 408524
+Byte Hops = 852842736
+Num Active Processes: 8192
+Comm Time: 9.522493e-03
+P TAP Communication:
+Max Num L Msgs: 13
+Max Num S Msgs: 1
+Max Num G Msgs: 1
+Max Num R Msgs: 7
+Total Bytes = 67079860
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 1
+Num Rend Node: 4
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 22544
+Num Short Socket: 5
+Num Eager Socket: 2
+Num Rend Socket: 7
+Size Short Socket: 516
+Size Eager Socket: 7668
+Size Rend Socket: 144748
+Byte Hops = 131432764
+Num Active Processes: 8192
+Comm Time: 1.786075e-03
+A Vector Communication
+Max Num Msgs: 18
+Total Bytes = 274330240
+Num Short: 3
+Num Eager: 2
+Num Rend: 5
+Size Short: 120
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 2
+Num Rend Node: 5
+Size Short Node: 104
+Size Eager Node: 9872
+Size Rend Node: 76976
+Num Short Socket: 0
+Num Eager Socket: 2
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 9776
+Size Rend Socket: 76824
+Byte Hops = 537354176
+Num Active Processes: 8192
+Comm Time: 3.039941e-04
+S Vector Communication
+Max Num Msgs: 14
+Total Bytes = 70354432
+Num Short: 3
+Num Eager: 1
+Num Rend: 3
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 1
+Num Rend Node: 3
+Size Short Node: 144
+Size Eager Node: 3104
+Size Rend Node: 9328
+Num Short Socket: 3
+Num Eager Socket: 1
+Num Rend Socket: 6
+Size Short Socket: 248
+Size Eager Socket: 3864
+Size Rend Socket: 49944
+Byte Hops = 137832360
+Num Active Processes: 8192
+Comm Time: 1.187252e-04
+P Vector Communication
+Max Num Msgs: 14
+Total Bytes = 25338680
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 3
+Num Rend Node: 0
+Size Short Node: 72
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 5
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 26992
+Size Rend Socket: 0
+Byte Hops = 49645536
+Num Active Processes: 8192
+Comm Time: 6.935141e-05
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 2
+Max Num R Msgs: 9
+Max Num G Msgs: 1
+Total Bytes = 89919272
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 2
+Num Rend Node: 7
+Size Short Node: 248
+Size Eager Node: 4536
+Size Rend Node: 284040
+Num Short Socket: 1
+Num Eager Socket: 1
+Num Rend Socket: 6
+Size Short Socket: 0
+Size Eager Socket: 7528
+Size Rend Socket: 92600
+Byte Hops = 176118952
+Num Active Processes: 8192
+Comm Time: 6.186444e-04
+S Vector TAP Communication
+Max Num L Msgs: 14
+Max Num S Msgs: 1
+Max Num R Msgs: 7
+Max Num G Msgs: 1
+Total Bytes = 45456352
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 1
+Num Rend Node: 4
+Size Short Node: 152
+Size Eager Node: 2960
+Size Rend Node: 81256
+Num Short Socket: 6
+Num Eager Socket: 2
+Num Rend Socket: 7
+Size Short Socket: 160
+Size Eager Socket: 2904
+Size Rend Socket: 39928
+Byte Hops = 89043000
+Num Active Processes: 8192
+Comm Time: 2.438358e-04
+P Vector TAP Communication
+Max Num L Msgs: 13
+Max Num S Msgs: 1
+Max Num R Msgs: 7
+Max Num G Msgs: 1
+Total Bytes = 17978720
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 4
+Num Rend Node: 2
+Size Short Node: 0
+Size Eager Node: 6208
+Size Rend Node: 0
+Num Short Socket: 5
+Num Eager Socket: 7
+Num Rend Socket: 2
+Size Short Socket: 144
+Size Eager Socket: 29016
+Size Rend Socket: 11912
+Byte Hops = 35218040
+Num Active Processes: 8192
+Comm Time: 1.033517e-04
+Level 3
+A Communication:
+Max Num Msgs: 33
+Total Bytes = 15331994912
+Num Short: 4
+Num Eager: 4
+Num Rend: 13
+Size Short: 376
+Size Eager: 9676
+Size Rend: 1492980
+Num Short Node: 0
+Num Eager Node: 2
+Num Rend Node: 8
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 2296532
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 2177136
+Byte Hops = 30038840792
+Num Active Processes: 8192
+Comm Time: 5.690204e-02
+S Communication:
+Max Num Msgs: 21
+Total Bytes = 492546240
+Num Short: 5
+Num Eager: 3
+Num Rend: 6
+Size Short: 300
+Size Eager: 6284
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 3
+Num Rend Node: 6
+Size Short Node: 176
+Size Eager Node: 5776
+Size Rend Node: 124756
+Num Short Socket: 0
+Num Eager Socket: 1
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 179640
+Byte Hops = 964555064
+Num Active Processes: 8192
+Comm Time: 1.793380e-03
+P Communication:
+Max Num Msgs: 21
+Total Bytes = 68048736
+Num Short: 5
+Num Eager: 6
+Num Rend: 0
+Size Short: 324
+Size Eager: 9900
+Size Rend: 0
+Num Short Node: 5
+Num Eager Node: 6
+Num Rend Node: 0
+Size Short Node: 436
+Size Eager Node: 5848
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 30656
+Size Rend Socket: 0
+Byte Hops = 133231028
+Num Active Processes: 8192
+Comm Time: 3.902555e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 3
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 3492177872
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 5
+Num Rend Node: 16
+Size Short Node: 412
+Size Eager Node: 14412
+Size Rend Node: 2616556
+Num Short Socket: 2
+Num Eager Socket: 3
+Num Rend Socket: 15
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 15968092
+Byte Hops = 6842745924
+Num Active Processes: 8192
+Comm Time: 1.721613e-01
+S TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 2
+Max Num G Msgs: 1
+Max Num R Msgs: 11
+Total Bytes = 309667464
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 5
+Num Eager Node: 4
+Num Rend Node: 7
+Size Short Node: 0
+Size Eager Node: 14068
+Size Rend Node: 549820
+Num Short Socket: 3
+Num Eager Socket: 2
+Num Rend Socket: 13
+Size Short Socket: 168
+Size Eager Socket: 0
+Size Rend Socket: 171976
+Byte Hops = 606674160
+Num Active Processes: 8192
+Comm Time: 5.562127e-03
+P TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 2
+Max Num G Msgs: 1
+Max Num R Msgs: 11
+Total Bytes = 47250276
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 3
+Num Rend Node: 5
+Size Short Node: 252
+Size Eager Node: 572
+Size Rend Node: 11632
+Num Short Socket: 2
+Num Eager Socket: 10
+Num Rend Socket: 4
+Size Short Socket: 320
+Size Eager Socket: 35284
+Size Rend Socket: 58520
+Byte Hops = 92536608
+Num Active Processes: 8192
+Comm Time: 1.065924e-03
+A Vector Communication
+Max Num Msgs: 33
+Total Bytes = 335465824
+Num Short: 9
+Num Eager: 12
+Num Rend: 0
+Size Short: 968
+Size Eager: 31592
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 50776
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 48408
+Size Rend Socket: 0
+Byte Hops = 657280336
+Num Active Processes: 8192
+Comm Time: 3.253143e-04
+S Vector Communication
+Max Num Msgs: 21
+Total Bytes = 51403584
+Num Short: 6
+Num Eager: 7
+Num Rend: 0
+Size Short: 112
+Size Eager: 552
+Size Rend: 0
+Num Short Node: 5
+Num Eager Node: 7
+Num Rend Node: 0
+Size Short Node: 552
+Size Eager Node: 13136
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 19344
+Size Rend Socket: 0
+Byte Hops = 100673560
+Num Active Processes: 8192
+Comm Time: 1.124012e-04
+P Vector Communication
+Max Num Msgs: 21
+Total Bytes = 18625680
+Num Short: 6
+Num Eager: 5
+Num Rend: 0
+Size Short: 264
+Size Eager: 2520
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 4
+Num Rend Node: 0
+Size Short Node: 296
+Size Eager Node: 1424
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 8416
+Size Rend Socket: 0
+Byte Hops = 36482680
+Num Active Processes: 8192
+Comm Time: 7.647028e-05
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 3
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 77297200
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 11
+Num Rend Node: 9
+Size Short Node: 184
+Size Eager Node: 37224
+Size Rend Node: 19464
+Num Short Socket: 4
+Num Eager Socket: 11
+Num Rend Socket: 8
+Size Short Socket: 0
+Size Eager Socket: 46632
+Size Rend Socket: 304000
+Byte Hops = 151465320
+Num Active Processes: 8192
+Comm Time: 5.415287e-04
+S Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 2
+Max Num R Msgs: 11
+Max Num G Msgs: 1
+Total Bytes = 32933928
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 7
+Num Eager Node: 5
+Num Rend Node: 3
+Size Short Node: 720
+Size Eager Node: 7760
+Size Rend Node: 0
+Num Short Socket: 3
+Num Eager Socket: 11
+Num Rend Socket: 3
+Size Short Socket: 560
+Size Eager Socket: 30680
+Size Rend Socket: 38032
+Byte Hops = 64521624
+Num Active Processes: 8192
+Comm Time: 1.631256e-04
+P Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 2
+Max Num R Msgs: 11
+Max Num G Msgs: 1
+Total Bytes = 12931608
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 7
+Num Eager Node: 7
+Num Rend Node: 0
+Size Short Node: 328
+Size Eager Node: 3008
+Size Rend Node: 0
+Num Short Socket: 3
+Num Eager Socket: 12
+Num Rend Socket: 0
+Size Short Socket: 784
+Size Eager Socket: 24880
+Size Rend Socket: 0
+Byte Hops = 25334712
+Num Active Processes: 8192
+Comm Time: 7.687359e-05
+Level 4
+A Communication:
+Max Num Msgs: 56
+Total Bytes = 17121206052
+Num Short: 6
+Num Eager: 13
+Num Rend: 30
+Size Short: 0
+Size Eager: 20136
+Size Rend: 2461204
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 8
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 1010080
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 969464
+Byte Hops = 34460492768
+Num Active Processes: 8192
+Comm Time: 4.129606e-02
+S Communication:
+Max Num Msgs: 35
+Total Bytes = 363666908
+Num Short: 8
+Num Eager: 10
+Num Rend: 2
+Size Short: 1588
+Size Eager: 25568
+Size Rend: 9832
+Num Short Node: 1
+Num Eager Node: 6
+Num Rend Node: 1
+Size Short Node: 0
+Size Eager Node: 20076
+Size Rend Node: 44384
+Num Short Socket: 0
+Num Eager Socket: 6
+Num Rend Socket: 1
+Size Short Socket: 0
+Size Eager Socket: 21804
+Size Rend Socket: 34952
+Byte Hops = 712235376
+Num Active Processes: 8192
+Comm Time: 1.027501e-03
+P Communication:
+Max Num Msgs: 33
+Total Bytes = 50383080
+Num Short: 14
+Num Eager: 9
+Num Rend: 0
+Size Short: 856
+Size Eager: 10396
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 7
+Num Rend Node: 0
+Size Short Node: 428
+Size Eager Node: 3528
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 8640
+Size Rend Socket: 0
+Byte Hops = 98759960
+Num Active Processes: 8192
+Comm Time: 2.796912e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 4
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 3128162716
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 1
+Num Rend Node: 19
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 12945560
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 15
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 5781252
+Byte Hops = 6704628800
+Num Active Processes: 8192
+Comm Time: 1.449605e-01
+S TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 3
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 222725472
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 11
+Num Rend Node: 9
+Size Short Node: 820
+Size Eager Node: 29296
+Size Rend Node: 49244
+Num Short Socket: 4
+Num Eager Socket: 11
+Num Rend Socket: 9
+Size Short Socket: 0
+Size Eager Socket: 25580
+Size Rend Socket: 368908
+Byte Hops = 436281692
+Num Active Processes: 8192
+Comm Time: 3.630476e-03
+P TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 3
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 34309412
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 13
+Num Eager Node: 10
+Num Rend Node: 3
+Size Short Node: 604
+Size Eager Node: 30504
+Size Rend Node: 27460
+Num Short Socket: 6
+Num Eager Socket: 15
+Num Rend Socket: 3
+Size Short Socket: 504
+Size Eager Socket: 9876
+Size Rend Socket: 0
+Byte Hops = 67231552
+Num Active Processes: 8192
+Comm Time: 7.115650e-04
+A Vector Communication
+Max Num Msgs: 56
+Total Bytes = 329336328
+Num Short: 18
+Num Eager: 25
+Num Rend: 0
+Size Short: 1720
+Size Eager: 46144
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 19688
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 19000
+Size Rend Socket: 0
+Byte Hops = 661964248
+Num Active Processes: 8192
+Comm Time: 6.095507e-04
+S Vector Communication
+Max Num Msgs: 35
+Total Bytes = 38083096
+Num Short: 13
+Num Eager: 7
+Num Rend: 0
+Size Short: 1520
+Size Eager: 2208
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 2
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 6784
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 6352
+Size Rend Socket: 0
+Byte Hops = 74571768
+Num Active Processes: 8192
+Comm Time: 1.157224e-04
+P Vector Communication
+Max Num Msgs: 33
+Total Bytes = 13891632
+Num Short: 19
+Num Eager: 0
+Num Rend: 0
+Size Short: 2384
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 1848
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 2320
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 27198352
+Num Active Processes: 8192
+Comm Time: 7.309520e-05
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 4
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 60916880
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 13
+Num Rend Node: 8
+Size Short Node: 0
+Size Eager Node: 26600
+Size Rend Node: 224488
+Num Short Socket: 0
+Num Eager Socket: 9
+Num Rend Socket: 8
+Size Short Socket: 0
+Size Eager Socket: 37752
+Size Rend Socket: 71392
+Byte Hops = 130027648
+Num Active Processes: 8192
+Comm Time: 4.281925e-04
+S Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 3
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 23880048
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 16
+Num Eager Node: 11
+Num Rend Node: 0
+Size Short Node: 1312
+Size Eager Node: 7728
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 15
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 41104
+Size Rend Socket: 0
+Byte Hops = 46770184
+Num Active Processes: 8192
+Comm Time: 1.179070e-04
+P Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 3
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 9460600
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 17
+Num Eager Node: 9
+Num Rend Node: 0
+Size Short Node: 776
+Size Eager Node: 15656
+Size Rend Node: 0
+Num Short Socket: 15
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 2928
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 18523976
+Num Active Processes: 8192
+Comm Time: 7.085991e-05
+Level 5
+A Communication:
+Max Num Msgs: 92
+Total Bytes = 13914585292
+Num Short: 5
+Num Eager: 25
+Num Rend: 54
+Size Short: 0
+Size Eager: 51340
+Size Rend: 2165900
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 8
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 440148
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 381284
+Byte Hops = 33370971552
+Num Active Processes: 8192
+Comm Time: 1.967228e-02
+S Communication:
+Max Num Msgs: 51
+Total Bytes = 267350056
+Num Short: 17
+Num Eager: 19
+Num Rend: 0
+Size Short: 2672
+Size Eager: 39976
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 20184
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 16000
+Size Rend Socket: 0
+Byte Hops = 532637884
+Num Active Processes: 8192
+Comm Time: 7.293940e-04
+P Communication:
+Max Num Msgs: 48
+Total Bytes = 36516384
+Num Short: 33
+Num Eager: 0
+Num Rend: 0
+Size Short: 5168
+Size Eager: 568
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 1200
+Size Eager Node: 2620
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1748
+Size Eager Socket: 1128
+Size Rend Socket: 0
+Byte Hops = 72646708
+Num Active Processes: 8192
+Comm Time: 4.776263e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 7
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 2626431964
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 1
+Num Rend Node: 21
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 6189544
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 15
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 5071332
+Byte Hops = 7072412484
+Num Active Processes: 8192
+Comm Time: 7.672551e-02
+S TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 4
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 162328608
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 14
+Num Rend Node: 9
+Size Short Node: 0
+Size Eager Node: 42384
+Size Rend Node: 68244
+Num Short Socket: 0
+Num Eager Socket: 12
+Num Rend Socket: 8
+Size Short Socket: 0
+Size Eager Socket: 14408
+Size Rend Socket: 198464
+Byte Hops = 326134716
+Num Active Processes: 8192
+Comm Time: 2.343450e-03
+P TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 4
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 24632604
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 13
+Num Eager Node: 7
+Num Rend Node: 0
+Size Short Node: 1924
+Size Eager Node: 16132
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 2256
+Size Eager Socket: 28256
+Size Rend Socket: 0
+Byte Hops = 49358364
+Num Active Processes: 8192
+Comm Time: 5.214381e-04
+A Vector Communication
+Max Num Msgs: 92
+Total Bytes = 245292608
+Num Short: 44
+Num Eager: 38
+Num Rend: 0
+Size Short: 5040
+Size Eager: 33744
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 7776
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 6760
+Size Rend Socket: 0
+Byte Hops = 585607128
+Num Active Processes: 8192
+Comm Time: 1.000069e-03
+S Vector Communication
+Max Num Msgs: 51
+Total Bytes = 27801728
+Num Short: 36
+Num Eager: 0
+Num Rend: 0
+Size Short: 4560
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2184
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1832
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 55278992
+Num Active Processes: 8192
+Comm Time: 1.903142e-04
+P Vector Communication
+Max Num Msgs: 48
+Total Bytes = 10089288
+Num Short: 33
+Num Eager: 0
+Num Rend: 0
+Size Short: 1784
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 800
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 792
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 20054480
+Num Active Processes: 8192
+Comm Time: 1.128559e-04
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 7
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 46795544
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 20
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 13904
+Size Rend Node: 95640
+Num Short Socket: 0
+Num Eager Socket: 14
+Num Rend Socket: 1
+Size Short Socket: 0
+Size Eager Socket: 6144
+Size Rend Socket: 82776
+Byte Hops = 125392032
+Num Active Processes: 8192
+Comm Time: 2.769546e-04
+S Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 4
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 17314680
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 14
+Num Eager Node: 9
+Num Rend Node: 0
+Size Short Node: 2600
+Size Eager Node: 8464
+Size Rend Node: 0
+Num Short Socket: 9
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 1744
+Size Eager Socket: 21624
+Size Rend Socket: 0
+Byte Hops = 34684512
+Num Active Processes: 8192
+Comm Time: 9.624069e-05
+P Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 4
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 6805944
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 17
+Num Eager Node: 3
+Num Rend Node: 0
+Size Short Node: 2280
+Size Eager Node: 3040
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 672
+Size Eager Socket: 8344
+Size Rend Socket: 0
+Byte Hops = 13629288
+Num Active Processes: 8192
+Comm Time: 6.495581e-05
+Level 6
+A Communication:
+Max Num Msgs: 145
+Total Bytes = 8754272512
+Num Short: 3
+Num Eager: 45
+Num Rend: 82
+Size Short: 1888
+Size Eager: 139500
+Size Rend: 1370464
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 8
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 159284
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 7
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 125028
+Byte Hops = 26877179484
+Num Active Processes: 8192
+Comm Time: 1.418828e-02
+S Communication:
+Max Num Msgs: 73
+Total Bytes = 168911800
+Num Short: 43
+Num Eager: 23
+Num Rend: 0
+Size Short: 6328
+Size Eager: 23976
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 6
+Num Rend Node: 0
+Size Short Node: 352
+Size Eager Node: 6172
+Size Rend Node: 0
+Num Short Socket: 4
+Num Eager Socket: 6
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 5344
+Size Rend Socket: 0
+Byte Hops = 382471308
+Num Active Processes: 8192
+Comm Time: 1.268148e-03
+P Communication:
+Max Num Msgs: 67
+Total Bytes = 22564300
+Num Short: 52
+Num Eager: 0
+Num Rend: 0
+Size Short: 4624
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 940
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 880
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 51047328
+Num Active Processes: 8192
+Comm Time: 6.501937e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 11
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 2064428776
+Num Short: 1
+Num Eager: 1
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 7
+Num Rend Node: 24
+Size Short Node: 0
+Size Eager Node: 3604
+Size Rend Node: 2374700
+Num Short Socket: 2
+Num Eager Socket: 8
+Num Rend Socket: 15
+Size Short Socket: 0
+Size Eager Socket: 3820
+Size Rend Socket: 1964272
+Byte Hops = 6966633276
+Num Active Processes: 8192
+Comm Time: 2.968117e-02
+S TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 6
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 113089788
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 11
+Num Eager Node: 19
+Num Rend Node: 8
+Size Short Node: 1048
+Size Eager Node: 20684
+Size Rend Node: 72832
+Num Short Socket: 7
+Num Eager Socket: 13
+Num Rend Socket: 8
+Size Short Socket: 444
+Size Eager Socket: 34208
+Size Rend Socket: 38568
+Byte Hops = 263824084
+Num Active Processes: 8192
+Comm Time: 1.234617e-03
+P TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 6
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 16430204
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 11
+Num Eager Node: 11
+Num Rend Node: 0
+Size Short Node: 968
+Size Eager Node: 11632
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 776
+Size Eager Socket: 11932
+Size Rend Socket: 0
+Byte Hops = 37917444
+Num Active Processes: 8192
+Comm Time: 3.330159e-04
+A Vector Communication
+Max Num Msgs: 145
+Total Bytes = 146144000
+Num Short: 130
+Num Eager: 0
+Num Rend: 0
+Size Short: 25288
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2704
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 2288
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 446199408
+Num Active Processes: 8192
+Comm Time: 1.202027e-03
+S Vector Communication
+Max Num Msgs: 73
+Total Bytes = 17439224
+Num Short: 58
+Num Eager: 0
+Num Rend: 0
+Size Short: 3080
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 688
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 632
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 39149712
+Num Active Processes: 8192
+Comm Time: 2.552788e-04
+P Vector Communication
+Max Num Msgs: 67
+Total Bytes = 6242600
+Num Short: 52
+Num Eager: 0
+Num Rend: 0
+Size Short: 1392
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 288
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 280
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 14106792
+Num Active Processes: 8192
+Comm Time: 2.206534e-04
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 11
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 34803296
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 22
+Num Eager Node: 14
+Num Rend Node: 0
+Size Short Node: 3152
+Size Eager Node: 36712
+Size Rend Node: 0
+Num Short Socket: 17
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 1960
+Size Eager Socket: 31008
+Size Rend Socket: 0
+Byte Hops = 116829072
+Num Active Processes: 8192
+Comm Time: 1.422787e-04
+S Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 6
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 11906016
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 21
+Num Eager Node: 9
+Num Rend Node: 0
+Size Short Node: 1096
+Size Eager Node: 8896
+Size Rend Node: 0
+Num Short Socket: 15
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 592
+Size Eager Socket: 6840
+Size Rend Socket: 0
+Byte Hops = 27474272
+Num Active Processes: 8192
+Comm Time: 7.343240e-05
+P Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 6
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 4545640
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 22
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 3408
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 15
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 3312
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 10482456
+Num Active Processes: 8192
+Comm Time: 5.580881e-05
+Level 7
+A Communication:
+Max Num Msgs: 222
+Total Bytes = 4677261672
+Num Short: 3
+Num Eager: 196
+Num Rend: 8
+Size Short: 3596
+Size Eager: 761912
+Size Rend: 192724
+Num Short Node: 0
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 31860
+Size Rend Node: 29324
+Num Short Socket: 0
+Num Eager Socket: 6
+Num Rend Socket: 1
+Size Short Socket: 0
+Size Eager Socket: 28060
+Size Rend Socket: 16996
+Byte Hops = 17421106236
+Num Active Processes: 8191
+Comm Time: 1.136787e-02
+S Communication:
+Max Num Msgs: 99
+Total Bytes = 90800048
+Num Short: 81
+Num Eager: 3
+Num Rend: 0
+Size Short: 15512
+Size Eager: 4036
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2020
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1020
+Size Eager Socket: 732
+Size Rend Socket: 0
+Byte Hops = 260495864
+Num Active Processes: 8191
+Comm Time: 1.562583e-03
+P Communication:
+Max Num Msgs: 76
+Total Bytes = 11809308
+Num Short: 63
+Num Eager: 0
+Num Rend: 0
+Size Short: 3216
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 7
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 220
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 260
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 33626172
+Num Active Processes: 8191
+Comm Time: 5.015755e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 16
+Max Num G Msgs: 2
+Max Num R Msgs: 16
+Total Bytes = 1512629948
+Num Short: 0
+Num Eager: 1
+Num Rend: 1
+Size Short: 0
+Size Eager: 0
+Size Rend: 30512
+Num Short Node: 2
+Num Eager Node: 21
+Num Rend Node: 18
+Size Short Node: 0
+Size Eager Node: 14316
+Size Rend Node: 794512
+Num Short Socket: 2
+Num Eager Socket: 15
+Num Rend Socket: 17
+Size Short Socket: 0
+Size Eager Socket: 36560
+Size Rend Socket: 706472
+Byte Hops = 5859957936
+Num Active Processes: 8192
+Comm Time: 1.014239e-02
+S TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 9
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 69395128
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 10
+Num Eager Node: 14
+Num Rend Node: 0
+Size Short Node: 2376
+Size Eager Node: 32704
+Size Rend Node: 0
+Num Short Socket: 14
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 1604
+Size Eager Socket: 25920
+Size Rend Socket: 0
+Byte Hops = 202467440
+Num Active Processes: 8192
+Comm Time: 5.600429e-04
+P TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 9
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 9507632
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 23
+Num Eager Node: 3
+Num Rend Node: 0
+Size Short Node: 3268
+Size Eager Node: 1660
+Size Rend Node: 0
+Num Short Socket: 15
+Num Eager Socket: 2
+Num Rend Socket: 0
+Size Short Socket: 1220
+Size Eager Socket: 3252
+Size Rend Socket: 0
+Byte Hops = 27379440
+Num Active Processes: 8190
+Comm Time: 1.955485e-04
+A Vector Communication
+Max Num Msgs: 222
+Total Bytes = 75731256
+Num Short: 207
+Num Eager: 0
+Num Rend: 0
+Size Short: 15352
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 976
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 736
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 280979640
+Num Active Processes: 8191
+Comm Time: 1.456001e-03
+S Vector Communication
+Max Num Msgs: 99
+Total Bytes = 9227416
+Num Short: 84
+Num Eager: 0
+Num Rend: 0
+Size Short: 1944
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 224
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 168
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 26043424
+Num Active Processes: 8191
+Comm Time: 4.207048e-04
+P Vector Communication
+Max Num Msgs: 76
+Total Bytes = 3256032
+Num Short: 63
+Num Eager: 0
+Num Rend: 0
+Size Short: 872
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 7
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 88
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 120
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 9276360
+Num Active Processes: 8191
+Comm Time: 1.733201e-04
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 16
+Max Num R Msgs: 16
+Max Num G Msgs: 2
+Total Bytes = 24719032
+Num Short: 1
+Num Eager: 1
+Num Rend: 0
+Size Short: 448
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 24
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 4808
+Size Eager Node: 8448
+Size Rend Node: 0
+Num Short Socket: 23
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 1976
+Size Eager Socket: 10128
+Size Rend Socket: 0
+Byte Hops = 95518920
+Num Active Processes: 8191
+Comm Time: 1.041770e-04
+S Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 9
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 7136432
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 24
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 3848
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 17
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 2664
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 20497480
+Num Active Processes: 8191
+Comm Time: 5.759749e-05
+P Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 9
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 2621728
+Num Short: 0
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 23
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 1408
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 15
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1192
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 7555560
+Num Active Processes: 8191
+Comm Time: 4.542170e-05
+Level 8
+A Communication:
+Max Num Msgs: 314
+Total Bytes = 2240522744
+Num Short: 20
+Num Eager: 286
+Num Rend: 0
+Size Short: 3672
+Size Eager: 586812
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 8
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 13672
+Size Rend Node: 8400
+Num Short Socket: 0
+Num Eager Socket: 7
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 17096
+Size Rend Socket: 0
+Byte Hops = 8475757524
+Num Active Processes: 8184
+Comm Time: 9.813514e-03
+S Communication:
+Max Num Msgs: 100
+Total Bytes = 45545476
+Num Short: 89
+Num Eager: 0
+Num Rend: 0
+Size Short: 12708
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 5
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 740
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 592
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 162683212
+Num Active Processes: 8184
+Comm Time: 1.107194e-03
+P Communication:
+Max Num Msgs: 64
+Total Bytes = 5583536
+Num Short: 53
+Num Eager: 0
+Num Rend: 0
+Size Short: 2124
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 100
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 16
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 19787936
+Num Active Processes: 8184
+Comm Time: 2.749896e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 16
+Max Num G Msgs: 2
+Max Num R Msgs: 16
+Total Bytes = 1000243340
+Num Short: 1
+Num Eager: 1
+Num Rend: 2
+Size Short: 0
+Size Eager: 0
+Size Rend: 116256
+Num Short Node: 7
+Num Eager Node: 23
+Num Rend Node: 16
+Size Short Node: 0
+Size Eager Node: 20624
+Size Rend Node: 299976
+Num Short Socket: 5
+Num Eager Socket: 21
+Num Rend Socket: 16
+Size Short Socket: 0
+Size Eager Socket: 24300
+Size Rend Socket: 323092
+Byte Hops = 3774060176
+Num Active Processes: 8192
+Comm Time: 5.574684e-03
+S TAP Communication:
+Max Num L Msgs: 14
+Max Num S Msgs: 14
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 38196364
+Num Short: 1
+Num Eager: 1
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 12
+Num Eager Node: 14
+Num Rend Node: 0
+Size Short Node: 956
+Size Eager Node: 14364
+Size Rend Node: 0
+Num Short Socket: 16
+Num Eager Socket: 8
+Num Rend Socket: 0
+Size Short Socket: 1068
+Size Eager Socket: 9076
+Size Rend Socket: 0
+Byte Hops = 137032312
+Num Active Processes: 8191
+Comm Time: 3.016353e-04
+P TAP Communication:
+Max Num L Msgs: 11
+Max Num S Msgs: 14
+Max Num G Msgs: 1
+Max Num R Msgs: 16
+Total Bytes = 4831356
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 21
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2304
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 16
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1328
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 17163256
+Num Active Processes: 8189
+Comm Time: 1.281261e-04
+A Vector Communication
+Max Num Msgs: 314
+Total Bytes = 35743792
+Num Short: 299
+Num Eager: 0
+Num Rend: 0
+Size Short: 8840
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 288
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 328
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 135016512
+Num Active Processes: 8184
+Comm Time: 2.052424e-03
+S Vector Communication
+Max Num Msgs: 100
+Total Bytes = 4489424
+Num Short: 89
+Num Eager: 0
+Num Rend: 0
+Size Short: 1152
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 5
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 64
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 56
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 15767600
+Num Active Processes: 8184
+Comm Time: 3.196945e-04
+P Vector Communication
+Max Num Msgs: 64
+Total Bytes = 1550464
+Num Short: 53
+Num Eager: 0
+Num Rend: 0
+Size Short: 584
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 24
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 6
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 24
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 5485720
+Num Active Processes: 8184
+Comm Time: 3.621989e-03
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 16
+Max Num R Msgs: 16
+Max Num G Msgs: 2
+Total Bytes = 16086664
+Num Short: 1
+Num Eager: 2
+Num Rend: 0
+Size Short: 0
+Size Eager: 1872
+Size Rend: 0
+Num Short Node: 24
+Num Eager Node: 2
+Num Rend Node: 0
+Size Short Node: 4664
+Size Eager Node: 536
+Size Rend Node: 0
+Num Short Socket: 23
+Num Eager Socket: 2
+Num Rend Socket: 0
+Size Short Socket: 3920
+Size Eager Socket: 1728
+Size Rend Socket: 0
+Byte Hops = 60594808
+Num Active Processes: 8184
+Comm Time: 9.894130e-05
+S Vector TAP Communication
+Max Num L Msgs: 14
+Max Num S Msgs: 14
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 3792056
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 24
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 1504
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 19
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 960
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 13393040
+Num Active Processes: 8184
+Comm Time: 5.645680e-05
+P Vector TAP Communication
+Max Num L Msgs: 11
+Max Num S Msgs: 14
+Max Num R Msgs: 16
+Max Num G Msgs: 1
+Total Bytes = 1341504
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 0
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 21
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 656
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 16
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 344
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 4759328
+Num Active Processes: 8184
+Comm Time: 3.934400e-05
+Level 9
+A Communication:
+Max Num Msgs: 399
+Total Bytes = 968998540
+Num Short: 73
+Num Eager: 313
+Num Rend: 0
+Size Short: 33700
+Size Eager: 331572
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 5
+Num Rend Node: 0
+Size Short Node: 472
+Size Eager Node: 6516
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 6
+Num Rend Socket: 0
+Size Short Socket: 412
+Size Eager Socket: 5548
+Size Rend Socket: 0
+Byte Hops = 4109798508
+Num Active Processes: 8160
+Comm Time: 7.383559e-03
+S Communication:
+Max Num Msgs: 86
+Total Bytes = 21602264
+Num Short: 83
+Num Eager: 0
+Num Rend: 0
+Size Short: 9100
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 104
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 124
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 83843952
+Num Active Processes: 8160
+Comm Time: 5.631113e-04
+P Communication:
+Max Num Msgs: 50
+Total Bytes = 2403020
+Num Short: 46
+Num Eager: 0
+Num Rend: 0
+Size Short: 1480
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 92
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 9231088
+Num Active Processes: 8160
+Comm Time: 1.269197e-04
+A TAP Communication:
+Max Num L Msgs: 15
+Max Num S Msgs: 16
+Max Num G Msgs: 3
+Max Num R Msgs: 16
+Total Bytes = 566349888
+Num Short: 0
+Num Eager: 1
+Num Rend: 2
+Size Short: 0
+Size Eager: 640
+Size Rend: 91016
+Num Short Node: 4
+Num Eager Node: 22
+Num Rend Node: 6
+Size Short Node: 1260
+Size Eager Node: 60920
+Size Rend Node: 61396
+Num Short Socket: 4
+Num Eager Socket: 21
+Num Rend Socket: 11
+Size Short Socket: 0
+Size Eager Socket: 41812
+Size Rend Socket: 117448
+Byte Hops = 2444825264
+Num Active Processes: 8192
+Comm Time: 2.762597e-03
+S TAP Communication:
+Max Num L Msgs: 10
+Max Num S Msgs: 16
+Max Num G Msgs: 2
+Max Num R Msgs: 16
+Total Bytes = 19258936
+Num Short: 0
+Num Eager: 1
+Num Rend: 0
+Size Short: 0
+Size Eager: 2892
+Size Rend: 0
+Num Short Node: 20
+Num Eager Node: 2
+Num Rend Node: 0
+Size Short Node: 3964
+Size Eager Node: 2316
+Size Rend Node: 0
+Num Short Socket: 18
+Num Eager Socket: 2
+Num Rend Socket: 0
+Size Short Socket: 2624
+Size Eager Socket: 2324
+Size Rend Socket: 0
+Byte Hops = 74529984
+Num Active Processes: 8191
+Comm Time: 2.020288e-04
+P TAP Communication:
+Max Num L Msgs: 6
+Max Num S Msgs: 16
+Max Num G Msgs: 2
+Max Num R Msgs: 16
+Total Bytes = 2178508
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 152
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 16
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 920
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 14
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 868
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 8358020
+Num Active Processes: 8184
+Comm Time: 9.387970e-05
+A Vector Communication
+Max Num Msgs: 399
+Total Bytes = 15493400
+Num Short: 386
+Num Eager: 0
+Num Rend: 0
+Size Short: 5656
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 6
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 112
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 152
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 65433096
+Num Active Processes: 8160
+Comm Time: 2.459250e-03
+S Vector Communication
+Max Num Msgs: 86
+Total Bytes = 2052256
+Num Short: 83
+Num Eager: 0
+Num Rend: 0
+Size Short: 800
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 40
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 24
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 7892544
+Num Active Processes: 8160
+Comm Time: 4.340772e-03
+P Vector Communication
+Max Num Msgs: 50
+Total Bytes = 693136
+Num Short: 46
+Num Eager: 0
+Num Rend: 0
+Size Short: 392
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 3
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 24
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 24
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 2663576
+Num Active Processes: 8160
+Comm Time: 6.973088e-03
+A Vector TAP Communication
+Max Num L Msgs: 15
+Max Num S Msgs: 16
+Max Num R Msgs: 16
+Max Num G Msgs: 3
+Total Bytes = 9112680
+Num Short: 1
+Num Eager: 2
+Num Rend: 0
+Size Short: 8
+Size Eager: 1480
+Size Rend: 0
+Num Short Node: 24
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2016
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 23
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 2608
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 39160984
+Num Active Processes: 8160
+Comm Time: 8.043609e-05
+S Vector TAP Communication
+Max Num L Msgs: 10
+Max Num S Msgs: 16
+Max Num R Msgs: 16
+Max Num G Msgs: 2
+Total Bytes = 1837568
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 248
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 21
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 368
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 19
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 664
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 7056048
+Num Active Processes: 8160
+Comm Time: 5.046251e-05
+P Vector TAP Communication
+Max Num L Msgs: 6
+Max Num S Msgs: 16
+Max Num R Msgs: 16
+Max Num G Msgs: 2
+Total Bytes = 628568
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 112
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 16
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 184
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 14
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 256
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 2412184
+Num Active Processes: 8160
+Comm Time: 3.913429e-04
+Level 10
+A Communication:
+Max Num Msgs: 321
+Total Bytes = 375578384
+Num Short: 62
+Num Eager: 253
+Num Rend: 0
+Size Short: 27296
+Size Eager: 182428
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 2
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 1692
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 3
+Num Rend Socket: 0
+Size Short Socket: 424
+Size Eager Socket: 2032
+Size Rend Socket: 0
+Byte Hops = 1833817940
+Num Active Processes: 7580
+Comm Time: 4.571819e-03
+S Communication:
+Max Num Msgs: 56
+Total Bytes = 9693660
+Num Short: 54
+Num Eager: 0
+Num Rend: 0
+Size Short: 6792
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 136
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 112
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 38625544
+Num Active Processes: 7580
+Comm Time: 2.898049e-04
+P Communication:
+Max Num Msgs: 37
+Total Bytes = 912508
+Num Short: 34
+Num Eager: 0
+Num Rend: 0
+Size Short: 1176
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 64
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 76
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 3628080
+Num Active Processes: 7580
+Comm Time: 7.731438e-05
+A TAP Communication:
+Max Num L Msgs: 11
+Max Num S Msgs: 16
+Max Num G Msgs: 5
+Max Num R Msgs: 16
+Total Bytes = 267018032
+Num Short: 0
+Num Eager: 2
+Num Rend: 2
+Size Short: 0
+Size Eager: 520
+Size Rend: 47604
+Num Short Node: 3
+Num Eager Node: 19
+Num Rend Node: 0
+Size Short Node: 448
+Size Eager Node: 64804
+Size Rend Node: 0
+Num Short Socket: 4
+Num Eager Socket: 17
+Num Rend Socket: 0
+Size Short Socket: 496
+Size Eager Socket: 53868
+Size Rend Socket: 28052
+Byte Hops = 1320160132
+Num Active Processes: 8192
+Comm Time: 1.551695e-03
+S TAP Communication:
+Max Num L Msgs: 6
+Max Num S Msgs: 16
+Max Num G Msgs: 2
+Max Num R Msgs: 16
+Total Bytes = 8975148
+Num Short: 0
+Num Eager: 1
+Num Rend: 0
+Size Short: 492
+Size Eager: 1420
+Size Rend: 0
+Num Short Node: 16
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2092
+Size Eager Node: 520
+Size Rend Node: 0
+Num Short Socket: 17
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 3468
+Size Eager Socket: 668
+Size Rend Socket: 0
+Byte Hops = 35802224
+Num Active Processes: 8180
+Comm Time: 1.441574e-04
+P TAP Communication:
+Max Num L Msgs: 5
+Max Num S Msgs: 15
+Max Num G Msgs: 2
+Max Num R Msgs: 12
+Total Bytes = 853296
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 124
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 11
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 808
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 11
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 504
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 3397224
+Num Active Processes: 8165
+Comm Time: 6.425381e-05
+A Vector Communication
+Max Num Msgs: 321
+Total Bytes = 6146872
+Num Short: 315
+Num Eager: 0
+Num Rend: 0
+Size Short: 3296
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 32
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 4
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 40
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 29823880
+Num Active Processes: 7580
+Comm Time: 1.557807e-03
+S Vector Communication
+Max Num Msgs: 56
+Total Bytes = 884160
+Num Short: 54
+Num Eager: 0
+Num Rend: 0
+Size Short: 432
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 16
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 32
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 3495320
+Num Active Processes: 7580
+Comm Time: 6.109751e-03
+P Vector Communication
+Max Num Msgs: 37
+Total Bytes = 290624
+Num Short: 34
+Num Eager: 0
+Num Rend: 0
+Size Short: 288
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 8
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 16
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1152672
+Num Active Processes: 7580
+Comm Time: 1.498531e-02
+A Vector TAP Communication
+Max Num L Msgs: 11
+Max Num S Msgs: 16
+Max Num R Msgs: 16
+Max Num G Msgs: 5
+Total Bytes = 4390384
+Num Short: 4
+Num Eager: 0
+Num Rend: 0
+Size Short: 776
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 22
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 1048
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 21
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1320
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 21565712
+Num Active Processes: 7580
+Comm Time: 6.413929e-05
+S Vector TAP Communication
+Max Num L Msgs: 6
+Max Num S Msgs: 16
+Max Num R Msgs: 16
+Max Num G Msgs: 2
+Total Bytes = 821328
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 56
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 16
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 344
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 17
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 320
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 3250648
+Num Active Processes: 7580
+Comm Time: 3.937490e-05
+P Vector TAP Communication
+Max Num L Msgs: 5
+Max Num S Msgs: 15
+Max Num R Msgs: 12
+Max Num G Msgs: 2
+Total Bytes = 272064
+Num Short: 1
+Num Eager: 0
+Num Rend: 0
+Size Short: 48
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 11
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 72
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 11
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 256
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1080792
+Num Active Processes: 7580
+Comm Time: 2.486300e-05
+Level 11
+A Communication:
+Max Num Msgs: 250
+Total Bytes = 134126244
+Num Short: 149
+Num Eager: 97
+Num Rend: 0
+Size Short: 69956
+Size Eager: 64276
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 992
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 908
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 751005320
+Num Active Processes: 5091
+Comm Time: 3.011339e-03
+S Communication:
+Max Num Msgs: 42
+Total Bytes = 3970668
+Num Short: 40
+Num Eager: 0
+Num Rend: 0
+Size Short: 3528
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 196
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 18225256
+Num Active Processes: 5091
+Comm Time: 1.315594e-04
+P Communication:
+Max Num Msgs: 24
+Total Bytes = 303396
+Num Short: 24
+Num Eager: 0
+Num Rend: 0
+Size Short: 704
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1401420
+Num Active Processes: 5091
+Comm Time: 5.408287e-05
+A TAP Communication:
+Max Num L Msgs: 7
+Max Num S Msgs: 16
+Max Num G Msgs: 7
+Max Num R Msgs: 15
+Total Bytes = 109194764
+Num Short: 0
+Num Eager: 6
+Num Rend: 0
+Size Short: 0
+Size Eager: 21584
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 18
+Num Rend Node: 0
+Size Short Node: 992
+Size Eager Node: 33564
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 15
+Num Rend Socket: 0
+Size Short Socket: 908
+Size Eager Socket: 42356
+Size Rend Socket: 0
+Byte Hops = 615221576
+Num Active Processes: 8160
+Comm Time: 8.225822e-04
+S TAP Communication:
+Max Num L Msgs: 6
+Max Num S Msgs: 16
+Max Num G Msgs: 3
+Max Num R Msgs: 11
+Total Bytes = 3784660
+Num Short: 2
+Num Eager: 0
+Num Rend: 0
+Size Short: 688
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 13
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 2420
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 14
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 1724
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 17405204
+Num Active Processes: 8150
+Comm Time: 1.035786e-04
+P TAP Communication:
+Max Num L Msgs: 3
+Max Num S Msgs: 15
+Max Num G Msgs: 3
+Max Num R Msgs: 7
+Total Bytes = 290280
+Num Short: 2
+Num Eager: 0
+Num Rend: 0
+Size Short: 188
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 392
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 9
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 184
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1342528
+Num Active Processes: 8119
+Comm Time: 4.559755e-05
+A Vector Communication
+Max Num Msgs: 250
+Total Bytes = 2278656
+Num Short: 246
+Num Eager: 0
+Num Rend: 0
+Size Short: 2160
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 2
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 16
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 2
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 16
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 12667768
+Num Active Processes: 5091
+Comm Time: 1.049936e-03
+S Vector Communication
+Max Num Msgs: 42
+Total Bytes = 353424
+Num Short: 40
+Num Eager: 0
+Num Rend: 0
+Size Short: 320
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 8
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 8
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1601336
+Num Active Processes: 5091
+Comm Time: 5.828414e-03
+P Vector Communication
+Max Num Msgs: 24
+Total Bytes = 115224
+Num Short: 24
+Num Eager: 0
+Num Rend: 0
+Size Short: 192
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 8
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 526944
+Num Active Processes: 5091
+Comm Time: 1.391440e-02
+A Vector TAP Communication
+Max Num L Msgs: 7
+Max Num S Msgs: 16
+Max Num R Msgs: 15
+Max Num G Msgs: 7
+Total Bytes = 1860856
+Num Short: 6
+Num Eager: 0
+Num Rend: 0
+Size Short: 352
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 20
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 568
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 16
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 704
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 10410184
+Num Active Processes: 5091
+Comm Time: 5.792060e-05
+S Vector TAP Communication
+Max Num L Msgs: 6
+Max Num S Msgs: 16
+Max Num R Msgs: 11
+Max Num G Msgs: 3
+Total Bytes = 337448
+Num Short: 2
+Num Eager: 0
+Num Rend: 0
+Size Short: 56
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 13
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 208
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 14
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 160
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 1532536
+Num Active Processes: 5091
+Comm Time: 3.270171e-05
+P Vector TAP Communication
+Max Num L Msgs: 3
+Max Num S Msgs: 15
+Max Num R Msgs: 7
+Max Num G Msgs: 3
+Total Bytes = 110352
+Num Short: 2
+Num Eager: 0
+Num Rend: 0
+Size Short: 16
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 8
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 120
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 9
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 80
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 504992
+Num Active Processes: 5091
+Comm Time: 8.786868e-04
+Level 12
+A Communication:
+Max Num Msgs: 164
+Total Bytes = 44510572
+Num Short: 28
+Num Eager: 135
+Num Rend: 0
+Size Short: 10192
+Size Eager: 79504
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 1
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 616
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 258052872
+Num Active Processes: 2452
+Comm Time: 1.417191e-03
+S Communication:
+Max Num Msgs: 24
+Total Bytes = 1454136
+Num Short: 24
+Num Eager: 0
+Num Rend: 0
+Size Short: 2904
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 208
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 7788556
+Num Active Processes: 2452
+Comm Time: 8.273125e-05
+P Communication:
+Max Num Msgs: 17
+Total Bytes = 96700
+Num Short: 16
+Num Eager: 0
+Num Rend: 0
+Size Short: 792
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 1
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 512396
+Num Active Processes: 2452
+Comm Time: 3.059387e-05
+A TAP Communication:
+Max Num L Msgs: 4
+Max Num S Msgs: 16
+Max Num G Msgs: 9
+Max Num R Msgs: 11
+Total Bytes = 39502856
+Num Short: 1
+Num Eager: 8
+Num Rend: 0
+Size Short: 0
+Size Eager: 9976
+Size Rend: 0
+Num Short Node: 4
+Num Eager Node: 13
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 21312
+Size Rend Node: 0
+Num Short Socket: 4
+Num Eager Socket: 10
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 20212
+Size Rend Socket: 0
+Byte Hops = 229303868
+Num Active Processes: 8128
+Comm Time: 4.604435e-04
+S TAP Communication:
+Max Num L Msgs: 2
+Max Num S Msgs: 15
+Max Num G Msgs: 4
+Max Num R Msgs: 7
+Total Bytes = 1413180
+Num Short: 3
+Num Eager: 0
+Num Rend: 0
+Size Short: 420
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 11
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 1024
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 2168
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 7572284
+Num Active Processes: 8018
+Comm Time: 7.836819e-05
+P TAP Communication:
+Max Num L Msgs: 2
+Max Num S Msgs: 13
+Max Num G Msgs: 3
+Max Num R Msgs: 4
+Total Bytes = 94028
+Num Short: 2
+Num Eager: 0
+Num Rend: 0
+Size Short: 16
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 9
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 280
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 7
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 440
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 498756
+Num Active Processes: 7108
+Comm Time: 3.842115e-05
+A Vector Communication
+Max Num Msgs: 164
+Total Bytes = 792968
+Num Short: 163
+Num Eager: 0
+Num Rend: 0
+Size Short: 1336
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 1
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 8
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 4580088
+Num Active Processes: 2452
+Comm Time: 5.321807e-04
+S Vector Communication
+Max Num Msgs: 24
+Total Bytes = 130272
+Num Short: 24
+Num Eager: 0
+Num Rend: 0
+Size Short: 200
+Size Eager: 0
+Size Rend: 0
+Num Short Node: 0
+Num Eager Node: 0
+Num Rend Node: 0
+Size Short Node: 0
+Size Eager Node: 0
+Size Rend Node: 0
+Num Short Socket: 0
+Num Eager Socket: 0
+Num Rend Socket: 0
+Size Short Socket: 0
+Size Eager Socket: 0
+Size Rend Socket: 0
+Byte Hops = 686744
+Num Active Processes: 2452

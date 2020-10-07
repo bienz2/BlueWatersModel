@@ -1,0 +1,957 @@
+----------------------------------------
+Begin Torque Prologue on nid25259
+at Mon Apr 30 11:18:40 CDT 2018
+Job Id:			8564542.bw
+Username:		bienz
+Group:			ILL_jq7
+Job name:		nodecomm
+Requested resources:	neednodes=1:ppn=32:xe,nodes=1:ppn=32:xe,walltime=00:20:00
+Queue:			normal
+Account:		jq7
+End Torque Prologue:  0.115 elapsed
+----------------------------------------
+
+
+
+
+Pingpong for
+master:  0, 1, 2, 3, 4, 5, 6, 7
+partner: 8, 9, 10, 11, 12, 13, 14, 15
+
+Num Msgs 1
+SizeMsgs 1
+1.91e-06	1.89e-06	1.90e-06	1.90e-06	
+
+Num Msgs 1
+SizeMsgs 2
+1.92e-06	1.92e-06	1.92e-06	1.92e-06	
+Num Msgs 2
+SizeMsgs 2
+3.07e-06	3.07e-06	3.05e-06	3.08e-06	
+
+Num Msgs 1
+SizeMsgs 4
+1.91e-06	1.90e-06	1.91e-06	1.91e-06	
+Num Msgs 2
+SizeMsgs 4
+3.06e-06	3.07e-06	3.06e-06	3.07e-06	
+Num Msgs 4
+SizeMsgs 4
+5.31e-06	5.31e-06	5.31e-06	5.31e-06	
+
+Num Msgs 1
+SizeMsgs 8
+1.91e-06	1.91e-06	1.91e-06	1.91e-06	
+Num Msgs 2
+SizeMsgs 8
+3.08e-06	3.07e-06	3.08e-06	3.07e-06	
+Num Msgs 4
+SizeMsgs 8
+5.32e-06	5.31e-06	5.32e-06	5.31e-06	
+Num Msgs 8
+SizeMsgs 8
+1.00e-05	1.01e-05	1.00e-05	1.00e-05	
+
+Num Msgs 1
+SizeMsgs 16
+2.28e-06	2.28e-06	2.28e-06	2.28e-06	
+Num Msgs 2
+SizeMsgs 16
+3.08e-06	3.08e-06	3.09e-06	3.10e-06	
+Num Msgs 4
+SizeMsgs 16
+5.33e-06	5.36e-06	5.29e-06	5.37e-06	
+Num Msgs 8
+SizeMsgs 16
+1.00e-05	9.98e-06	9.97e-06	9.97e-06	
+Num Msgs 16
+SizeMsgs 16
+2.69e-05	1.84e-05	1.85e-05	1.84e-05	
+
+Num Msgs 1
+SizeMsgs 32
+2.34e-06	2.34e-06	2.34e-06	2.34e-06	
+Num Msgs 2
+SizeMsgs 32
+3.53e-06	3.53e-06	3.52e-06	3.53e-06	
+Num Msgs 4
+SizeMsgs 32
+5.31e-06	5.33e-06	5.29e-06	5.28e-06	
+Num Msgs 8
+SizeMsgs 32
+9.91e-06	9.95e-06	9.95e-06	9.94e-06	
+Num Msgs 16
+SizeMsgs 32
+1.86e-05	1.84e-05	1.86e-05	1.84e-05	
+Num Msgs 32
+SizeMsgs 32
+3.62e-05	3.61e-05	3.61e-05	3.61e-05	
+
+Num Msgs 1
+SizeMsgs 64
+2.80e-06	2.80e-06	2.82e-06	2.80e-06	
+Num Msgs 2
+SizeMsgs 64
+3.73e-06	3.73e-06	3.72e-06	3.73e-06	
+Num Msgs 4
+SizeMsgs 64
+6.07e-06	6.08e-06	6.05e-06	6.02e-06	
+Num Msgs 8
+SizeMsgs 64
+9.99e-06	9.95e-06	9.95e-06	1.00e-05	
+Num Msgs 16
+SizeMsgs 64
+1.87e-05	1.84e-05	1.85e-05	1.84e-05	
+Num Msgs 32
+SizeMsgs 64
+3.60e-05	3.61e-05	3.60e-05	3.60e-05	
+Num Msgs 64
+SizeMsgs 64
+7.82e-05	7.84e-05	7.84e-05	7.84e-05	
+
+Num Msgs 1
+SizeMsgs 128
+3.82e-06	3.82e-06	3.77e-06	3.79e-06	
+Num Msgs 2
+SizeMsgs 128
+4.73e-06	4.72e-06	4.71e-06	4.72e-06	
+Num Msgs 4
+SizeMsgs 128
+6.61e-06	6.65e-06	6.62e-06	6.61e-06	
+Num Msgs 8
+SizeMsgs 128
+1.07e-05	1.06e-05	1.06e-05	1.06e-05	
+Num Msgs 16
+SizeMsgs 128
+1.87e-05	1.85e-05	1.85e-05	1.85e-05	
+Num Msgs 32
+SizeMsgs 128
+3.62e-05	3.60e-05	3.60e-05	3.60e-05	
+Num Msgs 64
+SizeMsgs 128
+7.88e-05	7.88e-05	7.81e-05	7.78e-05	
+Num Msgs 128
+SizeMsgs 128
+2.23e-04	2.23e-04	2.23e-04	2.23e-04	
+
+Num Msgs 1
+SizeMsgs 256
+4.96e-06	4.96e-06	4.96e-06	4.95e-06	
+Num Msgs 2
+SizeMsgs 256
+6.17e-06	6.18e-06	6.17e-06	6.18e-06	
+Num Msgs 4
+SizeMsgs 256
+8.25e-06	8.24e-06	8.23e-06	8.25e-06	
+Num Msgs 8
+SizeMsgs 256
+1.15e-05	1.15e-05	1.15e-05	1.14e-05	
+Num Msgs 16
+SizeMsgs 256
+1.99e-05	2.00e-05	2.00e-05	2.00e-05	
+Num Msgs 32
+SizeMsgs 256
+3.59e-05	3.59e-05	3.59e-05	3.60e-05	
+Num Msgs 64
+SizeMsgs 256
+7.74e-05	7.75e-05	7.74e-05	7.75e-05	
+Num Msgs 128
+SizeMsgs 256
+2.23e-04	2.24e-04	2.24e-04	2.24e-04	
+Num Msgs 256
+SizeMsgs 256
+1.00e-03	1.00e-03	1.03e-03	1.00e-03	
+
+Num Msgs 1
+SizeMsgs 512
+7.49e-06	7.48e-06	7.48e-06	7.49e-06	
+Num Msgs 2
+SizeMsgs 512
+8.67e-06	8.58e-06	8.58e-06	8.58e-06	
+Num Msgs 4
+SizeMsgs 512
+1.15e-05	1.15e-05	1.15e-05	1.15e-05	
+Num Msgs 8
+SizeMsgs 512
+1.55e-05	1.54e-05	1.54e-05	1.54e-05	
+Num Msgs 16
+SizeMsgs 512
+2.19e-05	2.20e-05	2.20e-05	2.21e-05	
+Num Msgs 32
+SizeMsgs 512
+3.79e-05	3.80e-05	3.82e-05	3.81e-05	
+Num Msgs 64
+SizeMsgs 512
+7.84e-05	7.83e-05	7.86e-05	7.88e-05	
+Num Msgs 128
+SizeMsgs 512
+2.23e-04	2.23e-04	2.23e-04	2.24e-04	
+Num Msgs 256
+SizeMsgs 512
+1.00e-03	1.00e-03	1.03e-03	1.00e-03	
+Num Msgs 512
+SizeMsgs 512
+3.90e-03	3.91e-03	3.90e-03	3.90e-03	
+
+Num Msgs 1
+SizeMsgs 1024
+1.20e-05	1.19e-05	1.20e-05	1.20e-05	
+Num Msgs 2
+SizeMsgs 1024
+1.36e-05	1.36e-05	1.36e-05	1.36e-05	
+Num Msgs 4
+SizeMsgs 1024
+1.64e-05	1.64e-05	1.65e-05	1.65e-05	
+Num Msgs 8
+SizeMsgs 1024
+2.22e-05	2.22e-05	2.22e-05	2.22e-05	
+Num Msgs 16
+SizeMsgs 1024
+2.85e-05	2.83e-05	2.85e-05	2.85e-05	
+Num Msgs 32
+SizeMsgs 1024
+4.15e-05	4.13e-05	4.12e-05	4.13e-05	
+Num Msgs 64
+SizeMsgs 1024
+8.26e-05	8.28e-05	8.28e-05	8.30e-05	
+Num Msgs 128
+SizeMsgs 1024
+2.24e-04	2.24e-04	2.25e-04	2.24e-04	
+Num Msgs 256
+SizeMsgs 1024
+1.00e-03	1.00e-03	1.03e-03	1.00e-03	
+Num Msgs 512
+SizeMsgs 1024
+3.89e-03	3.91e-03	3.90e-03	3.90e-03	
+Num Msgs 1024
+SizeMsgs 1024
+1.44e-02	1.46e-02	1.45e-02	1.42e-02	
+
+Num Msgs 1
+SizeMsgs 2048
+5.47e-06	5.47e-06	5.48e-06	5.47e-06	
+Num Msgs 2
+SizeMsgs 2048
+2.24e-05	2.25e-05	2.25e-05	2.25e-05	
+Num Msgs 4
+SizeMsgs 2048
+2.68e-05	2.68e-05	2.68e-05	2.68e-05	
+Num Msgs 8
+SizeMsgs 2048
+3.25e-05	3.25e-05	3.24e-05	3.25e-05	
+Num Msgs 16
+SizeMsgs 2048
+4.42e-05	4.45e-05	4.45e-05	4.49e-05	
+Num Msgs 32
+SizeMsgs 2048
+5.47e-05	5.45e-05	5.48e-05	5.42e-05	
+Num Msgs 64
+SizeMsgs 2048
+8.83e-05	8.84e-05	8.84e-05	8.84e-05	
+Num Msgs 128
+SizeMsgs 2048
+2.29e-04	2.29e-04	2.29e-04	2.29e-04	
+Num Msgs 256
+SizeMsgs 2048
+1.01e-03	1.01e-03	1.03e-03	1.01e-03	
+Num Msgs 512
+SizeMsgs 2048
+3.90e-03	3.91e-03	3.91e-03	3.90e-03	
+Num Msgs 1024
+SizeMsgs 2048
+1.44e-02	1.46e-02	1.45e-02	1.42e-02	
+Num Msgs 2048
+SizeMsgs 2048
+5.58e-02	5.51e-02	5.50e-02	5.50e-02	
+
+Num Msgs 1
+SizeMsgs 4096
+7.16e-06	7.15e-06	7.13e-06	7.14e-06	
+Num Msgs 2
+SizeMsgs 4096
+9.05e-06	9.05e-06	9.05e-06	9.05e-06	
+Num Msgs 4
+SizeMsgs 4096
+4.43e-05	4.44e-05	4.44e-05	4.45e-05	
+Num Msgs 8
+SizeMsgs 4096
+5.30e-05	5.30e-05	5.29e-05	5.31e-05	
+Num Msgs 16
+SizeMsgs 4096
+6.41e-05	6.46e-05	6.47e-05	6.42e-05	
+Num Msgs 32
+SizeMsgs 4096
+8.36e-05	8.40e-05	8.40e-05	8.39e-05	
+Num Msgs 64
+SizeMsgs 4096
+1.08e-04	1.08e-04	1.09e-04	1.08e-04	
+Num Msgs 128
+SizeMsgs 4096
+2.38e-04	2.37e-04	2.37e-04	2.36e-04	
+Num Msgs 256
+SizeMsgs 4096
+1.01e-03	1.01e-03	1.04e-03	1.01e-03	
+Num Msgs 512
+SizeMsgs 4096
+3.89e-03	3.91e-03	3.90e-03	3.89e-03	
+Num Msgs 1024
+SizeMsgs 4096
+1.45e-02	1.46e-02	1.44e-02	1.45e-02	
+Num Msgs 2048
+SizeMsgs 4096
+5.51e-02	5.51e-02	5.51e-02	5.51e-02	
+Num Msgs 4096
+SizeMsgs 4096
+2.16e-01	2.15e-01	2.14e-01	2.14e-01	
+
+Num Msgs 1
+SizeMsgs 8192
+1.07e-05	1.07e-05	1.06e-05	1.07e-05	
+Num Msgs 2
+SizeMsgs 8192
+1.33e-05	1.33e-05	1.33e-05	1.34e-05	
+Num Msgs 4
+SizeMsgs 8192
+1.65e-05	1.65e-05	1.66e-05	1.67e-05	
+Num Msgs 8
+SizeMsgs 8192
+9.05e-05	9.04e-05	9.07e-05	9.04e-05	
+Num Msgs 16
+SizeMsgs 8192
+1.05e-04	1.06e-04	1.05e-04	1.05e-04	
+Num Msgs 32
+SizeMsgs 8192
+1.26e-04	1.27e-04	1.26e-04	1.27e-04	
+Num Msgs 64
+SizeMsgs 8192
+1.57e-04	1.57e-04	1.58e-04	1.58e-04	
+Num Msgs 128
+SizeMsgs 8192
+2.76e-04	2.78e-04	2.75e-04	2.75e-04	
+Num Msgs 256
+SizeMsgs 8192
+1.03e-03	1.03e-03	1.04e-03	1.04e-03	
+Num Msgs 512
+SizeMsgs 8192
+3.93e-03	3.92e-03	3.92e-03	3.92e-03	
+Num Msgs 1024
+SizeMsgs 8192
+1.45e-02	1.43e-02	1.47e-02	1.47e-02	
+Num Msgs 2048
+SizeMsgs 8192
+5.52e-02	5.51e-02	5.52e-02	5.51e-02	
+Num Msgs 4096
+SizeMsgs 8192
+2.14e-01	2.14e-01	2.14e-01	2.14e-01	
+Num Msgs 8192
+SizeMsgs 8192
+9.54e-01	9.50e-01	9.51e-01	9.50e-01	
+
+Num Msgs 1
+SizeMsgs 16384
+1.94e-05	1.70e-05	1.82e-05	1.86e-05	
+Num Msgs 2
+SizeMsgs 16384
+1.95e-05	1.95e-05	1.94e-05	2.15e-05	
+Num Msgs 4
+SizeMsgs 16384
+2.56e-05	2.49e-05	2.50e-05	2.48e-05	
+Num Msgs 8
+SizeMsgs 16384
+3.21e-05	3.22e-05	3.22e-05	3.22e-05	
+Num Msgs 16
+SizeMsgs 16384
+1.80e-04	1.78e-04	1.79e-04	1.85e-04	
+Num Msgs 32
+SizeMsgs 16384
+2.11e-04	2.13e-04	2.06e-04	2.08e-04	
+Num Msgs 64
+SizeMsgs 16384
+2.43e-04	2.43e-04	2.43e-04	2.43e-04	
+Num Msgs 128
+SizeMsgs 16384
+3.25e-04	3.24e-04	3.25e-04	3.25e-04	
+Num Msgs 256
+SizeMsgs 16384
+1.10e-03	1.10e-03	1.10e-03	1.10e-03	
+Num Msgs 512
+SizeMsgs 16384
+3.93e-03	3.95e-03	3.94e-03	3.94e-03	
+Num Msgs 1024
+SizeMsgs 16384
+1.45e-02	1.47e-02	1.46e-02	1.43e-02	
+Num Msgs 2048
+SizeMsgs 16384
+5.53e-02	5.51e-02	5.51e-02	5.52e-02	
+Num Msgs 4096
+SizeMsgs 16384
+2.15e-01	2.14e-01	2.15e-01	2.14e-01	
+Num Msgs 8192
+SizeMsgs 16384
+9.51e-01	9.51e-01	9.51e-01	9.50e-01	
+Num Msgs 16384
+SizeMsgs 16384
+4.53e+00	4.53e+00	4.53e+00	4.52e+00	
+
+Num Msgs 1
+SizeMsgs 32768
+3.33e-05	3.28e-05	3.01e-05	3.23e-05	
+Num Msgs 2
+SizeMsgs 32768
+3.32e-05	3.44e-05	3.30e-05	3.39e-05	
+Num Msgs 4
+SizeMsgs 32768
+3.83e-05	3.78e-05	3.88e-05	3.70e-05	
+Num Msgs 8
+SizeMsgs 32768
+5.15e-05	4.92e-05	5.14e-05	4.89e-05	
+Num Msgs 16
+SizeMsgs 32768
+6.57e-05	6.56e-05	6.56e-05	6.58e-05	
+Num Msgs 32
+SizeMsgs 32768
+3.52e-04	3.60e-04	3.62e-04	3.52e-04	
+Num Msgs 64
+SizeMsgs 32768
+4.19e-04	4.09e-04	4.07e-04	4.11e-04	
+Num Msgs 128
+SizeMsgs 32768
+4.65e-04	4.65e-04	4.64e-04	4.65e-04	
+Num Msgs 256
+SizeMsgs 32768
+1.17e-03	1.17e-03	1.17e-03	1.17e-03	
+Num Msgs 512
+SizeMsgs 32768
+4.09e-03	4.09e-03	4.10e-03	4.08e-03	
+Num Msgs 1024
+SizeMsgs 32768
+1.48e-02	1.47e-02	1.44e-02	1.46e-02	
+Num Msgs 2048
+SizeMsgs 32768
+5.54e-02	5.52e-02	5.53e-02	5.53e-02	
+Num Msgs 4096
+SizeMsgs 32768
+2.15e-01	2.15e-01	2.15e-01	2.15e-01	
+Num Msgs 8192
+SizeMsgs 32768
+9.51e-01	9.51e-01	9.51e-01	9.51e-01	
+Num Msgs 16384
+SizeMsgs 32768
+4.53e+00	4.53e+00	4.53e+00	4.53e+00	
+
+Num Msgs 1
+SizeMsgs 65536
+6.43e-05	5.89e-05	5.88e-05	5.86e-05	
+Num Msgs 2
+SizeMsgs 65536
+6.18e-05	6.10e-05	6.10e-05	6.10e-05	
+Num Msgs 4
+SizeMsgs 65536
+6.64e-05	6.57e-05	6.58e-05	6.59e-05	
+Num Msgs 8
+SizeMsgs 65536
+7.56e-05	7.55e-05	7.54e-05	7.60e-05	
+Num Msgs 16
+SizeMsgs 65536
+1.01e-04	1.01e-04	1.01e-04	1.01e-04	
+Num Msgs 32
+SizeMsgs 65536
+1.37e-04	1.37e-04	1.39e-04	1.38e-04	
+Num Msgs 64
+SizeMsgs 65536
+7.04e-04	7.00e-04	7.01e-04	7.21e-04	
+Num Msgs 128
+SizeMsgs 65536
+7.92e-04	7.97e-04	7.93e-04	7.91e-04	
+Num Msgs 256
+SizeMsgs 65536
+1.38e-03	1.37e-03	1.37e-03	1.37e-03	
+Num Msgs 512
+SizeMsgs 65536
+4.17e-03	4.17e-03	4.20e-03	4.20e-03	
+Num Msgs 1024
+SizeMsgs 65536
+1.49e-02	1.48e-02	1.51e-02	1.49e-02	
+Num Msgs 2048
+SizeMsgs 65536
+5.54e-02	5.53e-02	5.54e-02	5.53e-02	
+Num Msgs 4096
+SizeMsgs 65536
+2.15e-01	2.15e-01	2.15e-01	2.15e-01	
+Num Msgs 8192
+SizeMsgs 65536
+9.51e-01	9.51e-01	9.51e-01	9.51e-01	
+Num Msgs 16384
+SizeMsgs 65536
+4.53e+00	4.53e+00	4.53e+00	4.53e+00	
+Pingpong for
+master:  0, 1, 2, 3, 4, 5, 6, 7
+partner: 8, 9, 10, 11, 12, 13, 14, 15
+
+Num Msgs 1
+SizeMsgs 1
+1.89e-06	1.89e-06	1.89e-06	1.89e-06	
+
+Num Msgs 1
+SizeMsgs 2
+1.93e-06	1.93e-06	1.93e-06	1.93e-06	
+Num Msgs 2
+SizeMsgs 2
+3.05e-06	3.07e-06	3.06e-06	3.06e-06	
+
+Num Msgs 1
+SizeMsgs 4
+1.95e-06	1.95e-06	1.95e-06	1.95e-06	
+Num Msgs 2
+SizeMsgs 4
+3.10e-06	3.10e-06	3.11e-06	3.11e-06	
+Num Msgs 4
+SizeMsgs 4
+5.29e-06	5.26e-06	5.30e-06	5.31e-06	
+
+Num Msgs 1
+SizeMsgs 8
+1.92e-06	1.92e-06	1.92e-06	1.92e-06	
+Num Msgs 2
+SizeMsgs 8
+3.12e-06	3.11e-06	3.11e-06	3.11e-06	
+Num Msgs 4
+SizeMsgs 8
+5.31e-06	5.38e-06	5.36e-06	5.38e-06	
+Num Msgs 8
+SizeMsgs 8
+1.00e-05	9.97e-06	9.98e-06	9.98e-06	
+
+Num Msgs 1
+SizeMsgs 16
+2.29e-06	2.29e-06	2.29e-06	2.29e-06	
+Num Msgs 2
+SizeMsgs 16
+3.11e-06	3.10e-06	3.10e-06	3.10e-06	
+Num Msgs 4
+SizeMsgs 16
+5.33e-06	5.36e-06	5.35e-06	5.26e-06	
+Num Msgs 8
+SizeMsgs 16
+1.00e-05	1.00e-05	1.00e-05	1.00e-05	
+Num Msgs 16
+SizeMsgs 16
+1.87e-05	1.83e-05	1.85e-05	1.84e-05	
+
+Num Msgs 1
+SizeMsgs 32
+2.36e-06	2.36e-06	2.35e-06	2.36e-06	
+Num Msgs 2
+SizeMsgs 32
+3.50e-06	3.51e-06	3.49e-06	3.49e-06	
+Num Msgs 4
+SizeMsgs 32
+5.33e-06	5.32e-06	5.34e-06	5.32e-06	
+Num Msgs 8
+SizeMsgs 32
+1.00e-05	9.98e-06	9.97e-06	9.97e-06	
+Num Msgs 16
+SizeMsgs 32
+1.85e-05	1.84e-05	1.84e-05	1.86e-05	
+Num Msgs 32
+SizeMsgs 32
+3.66e-05	3.62e-05	3.62e-05	3.61e-05	
+
+Num Msgs 1
+SizeMsgs 64
+2.87e-06	2.87e-06	2.84e-06	2.84e-06	
+Num Msgs 2
+SizeMsgs 64
+3.74e-06	3.74e-06	3.74e-06	3.74e-06	
+Num Msgs 4
+SizeMsgs 64
+6.10e-06	6.12e-06	6.12e-06	6.16e-06	
+Num Msgs 8
+SizeMsgs 64
+9.89e-06	9.92e-06	9.93e-06	9.92e-06	
+Num Msgs 16
+SizeMsgs 64
+1.86e-05	1.85e-05	1.85e-05	1.86e-05	
+Num Msgs 32
+SizeMsgs 64
+3.63e-05	3.61e-05	3.63e-05	3.60e-05	
+Num Msgs 64
+SizeMsgs 64
+8.03e-05	8.02e-05	8.02e-05	8.03e-05	
+
+Num Msgs 1
+SizeMsgs 128
+3.73e-06	3.77e-06	3.77e-06	3.77e-06	
+Num Msgs 2
+SizeMsgs 128
+4.74e-06	4.73e-06	4.80e-06	4.90e-06	
+Num Msgs 4
+SizeMsgs 128
+6.54e-06	6.63e-06	6.63e-06	6.63e-06	
+Num Msgs 8
+SizeMsgs 128
+1.06e-05	1.06e-05	1.06e-05	1.07e-05	
+Num Msgs 16
+SizeMsgs 128
+1.87e-05	1.86e-05	1.84e-05	1.85e-05	
+Num Msgs 32
+SizeMsgs 128
+3.65e-05	3.61e-05	3.61e-05	3.60e-05	
+Num Msgs 64
+SizeMsgs 128
+8.10e-05	8.10e-05	8.10e-05	8.10e-05	
+Num Msgs 128
+SizeMsgs 128
+2.23e-04	2.22e-04	2.23e-04	2.22e-04	
+
+Num Msgs 1
+SizeMsgs 256
+4.95e-06	4.94e-06	4.94e-06	4.93e-06	
+Num Msgs 2
+SizeMsgs 256
+6.14e-06	6.13e-06	6.12e-06	6.12e-06	
+Num Msgs 4
+SizeMsgs 256
+8.47e-06	8.50e-06	8.47e-06	8.51e-06	
+Num Msgs 8
+SizeMsgs 256
+1.17e-05	1.17e-05	1.17e-05	1.17e-05	
+Num Msgs 16
+SizeMsgs 256
+2.00e-05	1.98e-05	2.00e-05	1.98e-05	
+Num Msgs 32
+SizeMsgs 256
+3.65e-05	3.61e-05	3.62e-05	3.61e-05	
+Num Msgs 64
+SizeMsgs 256
+8.10e-05	8.10e-05	8.09e-05	8.11e-05	
+Num Msgs 128
+SizeMsgs 256
+2.23e-04	2.23e-04	2.27e-04	2.23e-04	
+Num Msgs 256
+SizeMsgs 256
+1.01e-03	1.00e-03	1.03e-03	1.00e-03	
+
+Num Msgs 1
+SizeMsgs 512
+7.51e-06	7.51e-06	7.52e-06	7.52e-06	
+Num Msgs 2
+SizeMsgs 512
+8.59e-06	8.59e-06	8.59e-06	8.60e-06	
+Num Msgs 4
+SizeMsgs 512
+1.14e-05	1.13e-05	1.13e-05	1.13e-05	
+Num Msgs 8
+SizeMsgs 512
+1.56e-05	1.57e-05	1.57e-05	1.58e-05	
+Num Msgs 16
+SizeMsgs 512
+2.24e-05	2.25e-05	2.25e-05	2.25e-05	
+Num Msgs 32
+SizeMsgs 512
+3.82e-05	3.80e-05	3.82e-05	3.80e-05	
+Num Msgs 64
+SizeMsgs 512
+8.13e-05	8.12e-05	8.10e-05	8.12e-05	
+Num Msgs 128
+SizeMsgs 512
+2.24e-04	2.22e-04	2.23e-04	2.23e-04	
+Num Msgs 256
+SizeMsgs 512
+1.00e-03	1.00e-03	1.03e-03	1.00e-03	
+Num Msgs 512
+SizeMsgs 512
+3.91e-03	3.92e-03	3.90e-03	3.92e-03	
+
+Num Msgs 1
+SizeMsgs 1024
+1.20e-05	1.20e-05	1.19e-05	1.20e-05	
+Num Msgs 2
+SizeMsgs 1024
+1.36e-05	1.36e-05	1.36e-05	1.36e-05	
+Num Msgs 4
+SizeMsgs 1024
+1.63e-05	1.63e-05	1.64e-05	1.64e-05	
+Num Msgs 8
+SizeMsgs 1024
+2.21e-05	2.20e-05	2.20e-05	2.20e-05	
+Num Msgs 16
+SizeMsgs 1024
+3.03e-05	3.01e-05	3.01e-05	2.96e-05	
+Num Msgs 32
+SizeMsgs 1024
+4.34e-05	4.34e-05	4.34e-05	4.36e-05	
+Num Msgs 64
+SizeMsgs 1024
+8.48e-05	8.47e-05	8.49e-05	8.44e-05	
+Num Msgs 128
+SizeMsgs 1024
+2.23e-04	2.23e-04	2.24e-04	2.24e-04	
+Num Msgs 256
+SizeMsgs 1024
+1.00e-03	1.00e-03	1.03e-03	1.00e-03	
+Num Msgs 512
+SizeMsgs 1024
+3.91e-03	3.93e-03	3.91e-03	3.91e-03	
+Num Msgs 1024
+SizeMsgs 1024
+1.46e-02	1.47e-02	1.46e-02	1.43e-02	
+
+Num Msgs 1
+SizeMsgs 2048
+7.40e-06	7.38e-06	7.39e-06	7.39e-06	
+Num Msgs 2
+SizeMsgs 2048
+2.26e-05	2.25e-05	2.26e-05	2.26e-05	
+Num Msgs 4
+SizeMsgs 2048
+2.69e-05	2.69e-05	2.69e-05	2.70e-05	
+Num Msgs 8
+SizeMsgs 2048
+3.23e-05	3.23e-05	3.23e-05	3.23e-05	
+Num Msgs 16
+SizeMsgs 2048
+4.44e-05	4.44e-05	4.40e-05	4.45e-05	
+Num Msgs 32
+SizeMsgs 2048
+5.58e-05	5.59e-05	5.56e-05	5.55e-05	
+Num Msgs 64
+SizeMsgs 2048
+9.52e-05	9.48e-05	9.48e-05	9.48e-05	
+Num Msgs 128
+SizeMsgs 2048
+2.31e-04	2.31e-04	2.31e-04	2.31e-04	
+Num Msgs 256
+SizeMsgs 2048
+1.01e-03	1.01e-03	1.03e-03	1.01e-03	
+Num Msgs 512
+SizeMsgs 2048
+3.93e-03	3.94e-03	3.92e-03	3.93e-03	
+Num Msgs 1024
+SizeMsgs 2048
+1.46e-02	1.47e-02	1.47e-02	1.42e-02	
+Num Msgs 2048
+SizeMsgs 2048
+5.54e-02	5.53e-02	5.53e-02	5.54e-02	
+
+Num Msgs 1
+SizeMsgs 4096
+8.09e-06	8.08e-06	8.09e-06	8.10e-06	
+Num Msgs 2
+SizeMsgs 4096
+1.12e-05	1.12e-05	1.12e-05	1.12e-05	
+Num Msgs 4
+SizeMsgs 4096
+4.45e-05	4.45e-05	4.45e-05	4.45e-05	
+Num Msgs 8
+SizeMsgs 4096
+5.31e-05	5.33e-05	5.33e-05	5.32e-05	
+Num Msgs 16
+SizeMsgs 4096
+6.37e-05	6.51e-05	6.39e-05	6.39e-05	
+Num Msgs 32
+SizeMsgs 4096
+8.35e-05	8.30e-05	8.30e-05	8.28e-05	
+Num Msgs 64
+SizeMsgs 4096
+1.11e-04	1.11e-04	1.12e-04	1.11e-04	
+Num Msgs 128
+SizeMsgs 4096
+2.49e-04	2.50e-04	2.51e-04	2.50e-04	
+Num Msgs 256
+SizeMsgs 4096
+1.02e-03	1.02e-03	1.04e-03	1.02e-03	
+Num Msgs 512
+SizeMsgs 4096
+3.93e-03	3.94e-03	3.92e-03	3.93e-03	
+Num Msgs 1024
+SizeMsgs 4096
+1.46e-02	1.47e-02	1.45e-02	1.45e-02	
+Num Msgs 2048
+SizeMsgs 4096
+5.54e-02	5.53e-02	5.53e-02	5.53e-02	
+Num Msgs 4096
+SizeMsgs 4096
+2.15e-01	2.15e-01	2.15e-01	2.15e-01	
+
+Num Msgs 1
+SizeMsgs 8192
+1.16e-05	1.16e-05	1.16e-05	1.16e-05	
+Num Msgs 2
+SizeMsgs 8192
+1.46e-05	1.47e-05	1.46e-05	1.46e-05	
+Num Msgs 4
+SizeMsgs 8192
+2.03e-05	2.03e-05	2.03e-05	2.03e-05	
+Num Msgs 8
+SizeMsgs 8192
+9.00e-05	9.02e-05	9.00e-05	9.02e-05	
+Num Msgs 16
+SizeMsgs 8192
+1.05e-04	1.06e-04	1.06e-04	1.04e-04	
+Num Msgs 32
+SizeMsgs 8192
+1.28e-04	1.26e-04	1.27e-04	1.28e-04	
+Num Msgs 64
+SizeMsgs 8192
+1.57e-04	1.55e-04	1.55e-04	1.56e-04	
+Num Msgs 128
+SizeMsgs 8192
+2.73e-04	2.76e-04	2.76e-04	2.74e-04	
+Num Msgs 256
+SizeMsgs 8192
+1.03e-03	1.03e-03	1.04e-03	1.05e-03	
+Num Msgs 512
+SizeMsgs 8192
+3.94e-03	3.94e-03	3.94e-03	3.95e-03	
+Num Msgs 1024
+SizeMsgs 8192
+1.47e-02	1.43e-02	1.47e-02	1.47e-02	
+Num Msgs 2048
+SizeMsgs 8192
+5.54e-02	5.54e-02	5.53e-02	5.53e-02	
+Num Msgs 4096
+SizeMsgs 8192
+2.15e-01	2.15e-01	2.15e-01	2.15e-01	
+Num Msgs 8192
+SizeMsgs 8192
+9.51e-01	9.51e-01	9.51e-01	9.51e-01	
+
+Num Msgs 1
+SizeMsgs 16384
+2.07e-05	1.88e-05	2.00e-05	2.02e-05	
+Num Msgs 2
+SizeMsgs 16384
+2.16e-05	2.14e-05	2.20e-05	2.34e-05	
+Num Msgs 4
+SizeMsgs 16384
+2.80e-05	2.77e-05	2.77e-05	2.76e-05	
+Num Msgs 8
+SizeMsgs 16384
+3.95e-05	3.96e-05	3.95e-05	3.94e-05	
+Num Msgs 16
+SizeMsgs 16384
+1.79e-04	1.79e-04	1.80e-04	1.81e-04	
+Num Msgs 32
+SizeMsgs 16384
+2.10e-04	2.15e-04	2.14e-04	2.07e-04	
+Num Msgs 64
+SizeMsgs 16384
+2.44e-04	2.44e-04	2.44e-04	2.44e-04	
+Num Msgs 128
+SizeMsgs 16384
+3.35e-04	3.35e-04	3.37e-04	3.39e-04	
+Num Msgs 256
+SizeMsgs 16384
+1.10e-03	1.10e-03	1.10e-03	1.10e-03	
+Num Msgs 512
+SizeMsgs 16384
+3.96e-03	3.97e-03	3.99e-03	3.95e-03	
+Num Msgs 1024
+SizeMsgs 16384
+1.45e-02	1.48e-02	1.46e-02	1.47e-02	
+Num Msgs 2048
+SizeMsgs 16384
+5.54e-02	5.54e-02	5.54e-02	5.54e-02	
+Num Msgs 4096
+SizeMsgs 16384
+2.15e-01	2.15e-01	2.15e-01	2.15e-01	
+Num Msgs 8192
+SizeMsgs 16384
+9.51e-01	9.51e-01	9.51e-01	9.51e-01	
+Num Msgs 16384
+SizeMsgs 16384
+4.53e+00	4.53e+00	4.53e+00	4.53e+00	
+
+Num Msgs 1
+SizeMsgs 32768
+3.63e-05	3.59e-05	3.32e-05	3.58e-05	
+Num Msgs 2
+SizeMsgs 32768
+3.47e-05	3.72e-05	3.47e-05	3.71e-05	
+Num Msgs 4
+SizeMsgs 32768
+4.14e-05	4.36e-05	4.15e-05	4.34e-05	
+Num Msgs 8
+SizeMsgs 32768
+5.53e-05	5.58e-05	5.65e-05	5.48e-05	
+Num Msgs 16
+SizeMsgs 32768
+8.02e-05	8.00e-05	8.01e-05	8.01e-05	
+Num Msgs 32
+SizeMsgs 32768
+3.53e-04	3.54e-04	3.61e-04	3.58e-04	
+Num Msgs 64
+SizeMsgs 32768
+4.21e-04	4.15e-04	4.15e-04	4.18e-04	
+Num Msgs 128
+SizeMsgs 32768
+4.66e-04	4.66e-04	4.67e-04	4.66e-04	
+Num Msgs 256
+SizeMsgs 32768
+1.18e-03	1.18e-03	1.17e-03	1.17e-03	
+Num Msgs 512
+SizeMsgs 32768
+4.06e-03	4.06e-03	4.07e-03	4.07e-03	
+Num Msgs 1024
+SizeMsgs 32768
+1.48e-02	1.48e-02	1.46e-02	1.46e-02	
+Num Msgs 2048
+SizeMsgs 32768
+5.55e-02	5.54e-02	5.54e-02	5.55e-02	
+Num Msgs 4096
+SizeMsgs 32768
+2.15e-01	2.15e-01	2.15e-01	2.15e-01	
+Num Msgs 8192
+SizeMsgs 32768
+9.51e-01	9.51e-01	9.51e-01	9.51e-01	
+Num Msgs 16384
+SizeMsgs 32768
+4.53e+00	4.53e+00	4.53e+00	4.53e+00	
+
+Num Msgs 1
+SizeMsgs 65536
+7.20e-05	6.63e-05	6.63e-05	6.60e-05	
+Num Msgs 2
+SizeMsgs 65536
+6.76e-05	6.75e-05	6.75e-05	6.75e-05	
+Num Msgs 4
+SizeMsgs 65536
+7.21e-05	7.22e-05	7.26e-05	7.24e-05	
+Num Msgs 8
+SizeMsgs 65536
+8.52e-05	8.50e-05	8.50e-05	8.52e-05	
+Num Msgs 16
+SizeMsgs 65536
+1.12e-04	1.12e-04	1.13e-04	1.12e-04	
+Num Msgs 32
+SizeMsgs 65536
+1.68e-04	1.68e-04	1.68e-04	1.68e-04	
+Num Msgs 64
+SizeMsgs 65536
+7.38e-04	7.21e-04	7.18e-04	7.01e-04	
+Num Msgs 128
+SizeMsgs 65536
+7.99e-04	8.00e-04	7.97e-04	7.90e-04	
+Num Msgs 256
+SizeMsgs 65536
+1.38e-03	1.38e-03	1.38e-03	1.38e-03	
+Num Msgs 512
+SizeMsgs 65536
+4.23e-03	4.20e-03	4.18e-03	4.17e-03	
+Num Msgs 1024
+SizeMsgs 65536
+1.51e-02	1.49e-02	1.49e-02	1.50e-02	
+Num Msgs 2048
+SizeMsgs 65536
+5.56e-02	5.56e-02	5.55e-02	5.55e-02	
+Num Msgs 4096
+SizeMsgs 65536
+2.15e-01	2.15e-01	2.15e-01	2.15e-01	
+Num Msgs 8192
+SizeMsgs 65536
+9.51e-01	9.51e-01	9.51e-01	9.51e-01	
+Num Msgs 16384
+SizeMsgs 65536
+4.53e+00	4.53e+00	4.53e+00	4.53e+00	
+Application 66661744 resources: utime ~3304s, stime ~12s, Rss ~22628, inblocks ~7001, outblocks ~16463
