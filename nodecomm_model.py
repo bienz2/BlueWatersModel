@@ -67,9 +67,9 @@ class StandardArch(Arch):
 
 
 
-filenames = ["bw_output/model/orig/max_rate", 
-        "bw_output/model/on_node/on_node.out",
-        "bw_output/model/on_node/on_socket.out"]
+filenames = ["bw_output/orig/max_rate", 
+        "bw_output/on_node/on_node.out",
+        "bw_output/on_node/on_socket.out"]
 
 # Models on CRAY only 
 postal_model = StandardArch(LocalModel)
